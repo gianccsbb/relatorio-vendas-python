@@ -1,0 +1,1577 @@
+Data;Hora;Produto;Qtd;Valor Unit.;Pagamento
+01/10/2026;07:01;CAFÉ COADO ;1;R$ 6,00;pix
+01/10/2026;07:38;Café coado;1;R$ 6,00;dinheiro
+01/10/2026;07:41;CAFÉ COADO ;1;R$ 6,00;pix
+01/10/2026;07:00;cuscuz c/ ovo;2;R$ 13,00;dinheiro
+01/10/2026;07:48;pao chapa;1;R$ 7,00;dinheiro
+01/10/2026;08:16;Pao na Chapa;1;R$ 7,00;Cartão Crédito
+01/10/2026;08:34;Expresso;1;R$ 7,00;Cartão Débito
+01/10/2026;08:05;CAFÉ COADO ;2;R$ 6,00;Pix
+01/10/2026;08:39;Cuscuz com ovo;2;R$ 13,00;Cartão Débito
+01/10/2026;08:12;Cappuccino;1;R$ 12,00;dinheiro
+01/10/2026;08:14;Tapioca de queijo coalho;1;R$ 14,00;Cartão Débito
+01/10/2026;08:10;PÃO NA CHAPA;2;R$ 7,00;Cartão Débito
+01/10/2026;08:17;Pao na Chapa;1;R$ 7,00;Cartão Débito
+01/10/2026;08:04;tapioca coalho;1;R$ 14,00;Cartão Crédito
+01/10/2026;09:24;Tapioca queijo coalho;1;R$ 14,00;dinheiro
+01/10/2026;09:52;espresso;1;R$ 7,00;Pix
+01/10/2026;09:36;cafe coado;2;R$ 6,00;Cartão Crédito
+01/10/2026;09:41;Capuccino;1;R$ 12,00;Cartão Débito
+01/10/2026;09:41;pao chapa;2;R$ 7,00;Pix
+01/10/2026;10:47;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+01/10/2026;10:25;Cuscus com ovo;2;R$ 13,00;Pix
+01/10/2026;10:03;Pão na chapa;1;R$ 7,00;Pix
+01/10/2026;10:10;Capuccino;1;R$ 12,00;pix
+01/10/2026;11:35;bolo de rolo;1;R$ 10,00;dinheiro
+01/10/2026;11:46;Croissant;1;R$ 11,00;Pix
+01/10/2026;12:00;Café gelado com rapadura;1;R$ 14,00;pix
+01/10/2026;12:16;Expresso;2;R$ 7,00;Cartão Crédito
+01/10/2026;12:32;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+01/10/2026;13:31;espresso;1;R$ 7,00;Dinheiro
+01/10/2026;13:56;Cafe Coado;2;R$ 6,00;Cartão Débito
+01/10/2026;15:59;bolo souza leao;3;R$ 12,00;pix
+01/10/2026;15:42;Brigadeiro unid;1;R$ 4,00;dinheiro
+01/10/2026;15:14;Café gelado com rapadura;1;R$ 14,00;PIX
+01/10/2026;15:45;Bolo Souza Leão;1;R$ 12,00;Cartão Débito
+01/10/2026;15:57;Cartola;1;R$ 16,00;Cartao Debito
+01/10/2026;16:13;capuccino;1;R$ 12,00;Pix
+01/10/2026;16:06;Bolo de Rolo fatia;1;R$ 10,00;Dinheiro
+01/10/2026;16:03;Bolo de rolo (fatia);2;R$ 10,00;Cartão Débito
+01/10/2026;16:06;cartola;3;R$ 16,00;dinheiro
+01/10/2026;17:55;Cappuccino;1;R$ 12,00;Cartão Crédito
+01/10/2026;17:55;espresso;1;R$ 7,00;Cartao Debito
+01/10/2026;17:41;Croissant;1;R$ 11,00;pix
+01/10/2026;17:05;tapioca coalho;2;R$ 14,00;dinheiro
+01/10/2026;18:24;Bolo de Rolo fatia;1;R$ 10,00;Cartão Débito
+01/10/2026;18:50;Cartola;1;R$ 16,00;pix
+02/10/2026;07:34;Capuccino;2;R$ 12,00;pix
+02/10/2026;07:35;Cafe Coado;1;R$ 6,00;Dinheiro
+02/10/2026;07:19;cafe coado;1;R$ 6,00;Cartao Debito
+02/10/2026;07:55;pao chapa;2;R$ 7,00;PIX
+02/10/2026;07:43;Cafe Coado;1;R$ 6,00;PIX
+02/10/2026;07:49;cafe coado;1;R$ 6,00;dinheiro
+02/10/2026;07:39;Cuscuz com ovo;2;R$ 13,00;Cartao Debito
+02/10/2026;07:15;espresso;2;R$ 7,00;pix
+02/10/2026;07:11;Café Coado;1;R$ 6,00;Pix
+02/10/2026;08:47;Pao na Chapa;1;R$ 7,00;dinheiro
+02/10/2026;08:50;Expresso;1;R$ 7,00;Cartao Debito
+02/10/2026;08:02;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+02/10/2026;08:52;Capuccino;1;R$ 12,00;Cartao Debito
+02/10/2026;08:52;Croisant;1;R$ 11,00;dinheiro
+02/10/2026;08:01;espresso;1;R$ 7,00;PIX
+02/10/2026;08:17;Tapioca queijo coalho;1;R$ 14,00;Cartão Débito
+02/10/2026;08:17;Cappuccino;3;R$ 12,00;Cartão Crédito
+02/10/2026;08:11;cafe coado;3;R$ 6,00;Dinheiro
+02/10/2026;08:02;Cuscus com ovo;3;R$ 13,00;Pix
+02/10/2026;09:38;Tapioca queijo coalho;1;R$ 14,00;Pix
+02/10/2026;09:57;Bolo de Rolo fatia;1;R$ 10,00;dinheiro
+02/10/2026;09:45;Cuscus com ovo;1;R$ 13,00;pix
+02/10/2026;09:51;Pao na Chapa;1;R$ 7,00;Cartão Crédito
+02/10/2026;09:47;cuscuz c/ ovo;1;R$ 13,00;Cartao Debito
+02/10/2026;09:21;Café Coado;1;R$ 6,00;Cartão Crédito
+02/10/2026;09:44;Tapioca de queijo coalho;1;R$ 14,00;Dinheiro
+02/10/2026;09:26;Pao na Chapa;1;R$ 7,00;Cartao Debito
+02/10/2026;10:28;Cuscuz com ovo;1;R$ 13,00;dinheiro
+02/10/2026;10:47;Espresso;2;R$ 7,00;dinheiro
+02/10/2026;11:12;cartola;1;R$ 16,00;pix
+02/10/2026;12:29;bolo souza leao;1;R$ 12,00;Pix
+02/10/2026;14:33;Cappuccino;2;R$ 12,00;dinheiro
+02/10/2026;14:58;bolo de rolo;1;R$ 10,00;Pix
+02/10/2026;15:48;bolo souza leao;1;R$ 12,00;PIX
+02/10/2026;15:58;espresso;1;R$ 7,00;PIX
+02/10/2026;15:47;Bolo Souza Leão;2;R$ 12,00;Cartão Crédito
+02/10/2026;15:48;Croisant;1;R$ 11,00;pix
+02/10/2026;16:49;capuccino;1;R$ 12,00;Cartao Debito
+02/10/2026;16:15;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+02/10/2026;16:57;Cappuccino;1;R$ 12,00;Cartao Debito
+02/10/2026;16:14;bolo souza leao;1;R$ 12,00;Cartão Crédito
+02/10/2026;16:13;Gelado rapadura;1;R$ 14,00;Dinheiro
+02/10/2026;16:34;Café Coado;1;R$ 6,00;Cartao Debito
+02/10/2026;17:53;Gelado rapadura;2;R$ 14,00;Cartao Debito
+02/10/2026;17:01;Capuccino;1;R$ 12,00;Cartão Crédito
+02/10/2026;17:51;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+02/10/2026;18:34;Expresso;3;R$ 7,00;Cartão Débito
+02/10/2026;18:36;Café Coado;1;R$ 6,00;Cartao Debito
+03/10/2026;07:31;PÃO NA CHAPA;1;R$ 7,00;pix
+03/10/2026;07:21;Cafe Coado;1;R$ 6,00;Pix
+03/10/2026;07:56;Cafe Coado;1;R$ 6,00;Cartão Crédito
+03/10/2026;07:12;CAFÉ COADO ;1;R$ 6,00;dinheiro
+03/10/2026;07:31;Cafe Coado;1;R$ 6,00;Dinheiro
+03/10/2026;07:30;cuscuz c/ ovo;1;R$ 13,00;PIX
+03/10/2026;07:50;Tapioca de queijo coalho;1;R$ 14,00;Dinheiro
+03/10/2026;07:37;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+03/10/2026;07:22;Pao na Chapa;1;R$ 7,00;pix
+03/10/2026;07:21;Pao na Chapa;1;R$ 7,00;PIX
+03/10/2026;07:19;PÃO NA CHAPA;1;R$ 7,00;pix
+03/10/2026;08:12;Café Coado;1;R$ 6,00;dinheiro
+03/10/2026;08:48;PÃO NA CHAPA;1;R$ 7,00;PIX
+03/10/2026;08:47;Tapioca queijo coalho;1;R$ 14,00;Pix
+03/10/2026;08:48;Pão na chapa;1;R$ 7,00;Cartao Debito
+03/10/2026;08:23;capuccino;1;R$ 12,00;Cartão Crédito
+03/10/2026;08:03;Café Coado;1;R$ 6,00;PIX
+03/10/2026;08:08;Cuscus com ovo;1;R$ 13,00;pix
+03/10/2026;08:06;Tapioca queijo coalho;1;R$ 14,00;pix
+03/10/2026;08:03;pao chapa;1;R$ 7,00;Cartao Debito
+03/10/2026;08:07;Café Coado;2;R$ 6,00;dinheiro
+03/10/2026;09:07;pao chapa;3;R$ 7,00;Pix
+03/10/2026;09:33;Espresso;1;R$ 7,00;Pix
+03/10/2026;09:19;Cappuccino;3;R$ 12,00;Cartão Débito
+03/10/2026;09:47;Cuscuz com ovo;1;R$ 13,00;dinheiro
+03/10/2026;09:40;Café Coado;1;R$ 6,00;Cartao Debito
+03/10/2026;09:18;pao chapa;1;R$ 7,00;Cartão Débito
+03/10/2026;09:29;tapioca coalho;1;R$ 14,00;Cartao Debito
+03/10/2026;09:42;espresso;1;R$ 7,00;dinheiro
+03/10/2026;10:58;Cuscus com ovo;1;R$ 13,00;Pix
+03/10/2026;10:03;Café Coado;1;R$ 6,00;pix
+03/10/2026;10:47;cafe coado;1;R$ 6,00;pix
+03/10/2026;10:44;Café coado;1;R$ 6,00;Cartão Débito
+03/10/2026;10:34;Pao na Chapa;1;R$ 7,00;Cartao Debito
+03/10/2026;10:02;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+03/10/2026;10:01;Capuccino;1;R$ 12,00;Dinheiro
+03/10/2026;11:48;Café gelado com rapadura;1;R$ 14,00;dinheiro
+03/10/2026;11:28;Capuccino;1;R$ 12,00;pix
+03/10/2026;11:37;Expresso;1;R$ 7,00;Pix
+03/10/2026;11:42;Bolo de rolo (fatia);1;R$ 10,00;Cartao Debito
+03/10/2026;12:25;Gelado rapadura;3;R$ 14,00;dinheiro
+03/10/2026;12:00;croissant;2;R$ 11,00;pix
+03/10/2026;12:39;Cafe Coado;1;R$ 6,00;Cartao Debito
+
+03/10/2026;13:40;Cartola;1;R$ 16,00;Cartão Crédito
+03/10/2026;13:58;Café coado;3;R$ 6,00;Cartão Débito
+03/10/2026;13:41;Café coado;2;R$ 6,00;Dinheiro
+03/10/2026;13:45;Croissant;1;R$ 11,00;pix
+03/10/2026;14:26;Gelado rapadura;1;R$ 14,00;Cartão Crédito
+03/10/2026;14:15;Croissant;3;R$ 11,00;Cartao Debito
+03/10/2026;14:56;espresso;1;R$ 7,00;Cartao Debito
+03/10/2026;14:49;Café Coado;1;R$ 6,00;dinheiro
+03/10/2026;15:53;Cafe Coado;1;R$ 6,00;pix
+03/10/2026;15:30;Croisant;1;R$ 11,00;Cartao Debito
+03/10/2026;15:36;Capuccino;1;R$ 12,00;Cartão Crédito
+03/10/2026;16:09;brigadeiro un;1;R$ 4,00;Pix
+03/10/2026;16:33;Croisant;1;R$ 11,00;pix
+03/10/2026;16:09;espresso;1;R$ 7,00;Pix
+03/10/2026;16:09;Bolo de Rolo fatia;1;R$ 10,00;dinheiro
+03/10/2026;16:41;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+03/10/2026;16:43;cafe coado;1;R$ 6,00;Dinheiro
+03/10/2026;17:48;cafe gelado;1;R$ 14,00;Pix
+03/10/2026;17:39;bolo de rolo;1;R$ 10,00;Pix
+03/10/2026;17:58;Café Coado;1;R$ 6,00;dinheiro
+03/10/2026;17:10;Cartola;1;R$ 16,00;pix
+03/10/2026;18:42;cartola;1;R$ 16,00;Dinheiro
+04/10/2026;07:43;Café coado;1;R$ 6,00;Cartão Débito
+04/10/2026;07:52;bolo de rolo;2;R$ 10,00;dinheiro
+04/10/2026;07:03;Tapioca de queijo coalho;3;R$ 14,00;Cartão Débito
+04/10/2026;07:08;Expresso;1;R$ 7,00;Cartão Débito
+04/10/2026;07:53;Espresso;1;R$ 7,00;Pix
+04/10/2026;07:49;Espresso;1;R$ 7,00;PIX
+04/10/2026;07:00;Cafe Coado;2;R$ 6,00;Pix
+04/10/2026;07:08;Café coado;3;R$ 6,00;dinheiro
+04/10/2026;08:00;Tapioca de queijo coalho;1;R$ 14,00;dinheiro
+04/10/2026;08:03;Pao na Chapa;1;R$ 7,00;pix
+04/10/2026;08:07;Cafe Coado;1;R$ 6,00;Dinheiro
+04/10/2026;08:28;Pão na chapa;1;R$ 7,00;Pix
+04/10/2026;08:02;Pao na Chapa;2;R$ 7,00;Pix
+04/10/2026;08:42;Tapioca de queijo coalho;2;R$ 14,00;PIX
+04/10/2026;08:01;cuscuz c/ ovo;1;R$ 13,00;PIX
+04/10/2026;08:25;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+04/10/2026;08:45;Pao na Chapa;1;R$ 7,00;Pix
+04/10/2026;08:05;Croissant;1;R$ 11,00;Cartao Debito
+04/10/2026;08:35;Café coado;1;R$ 6,00;Cartão Débito
+04/10/2026;08:38;tapioca coalho;1;R$ 14,00;Cartao Debito
+04/10/2026;08:07;Pão na chapa;1;R$ 7,00;Pix
+04/10/2026;09:26;Pao na Chapa;1;R$ 7,00;PIX
+04/10/2026;09:20;Tapioca queijo coalho;1;R$ 14,00;Cartao Debito
+04/10/2026;09:09;Tapioca de queijo coalho;1;R$ 14,00;pix
+04/10/2026;09:05;tapioca coalho;1;R$ 14,00;Cartão Crédito
+04/10/2026;09:06;capuccino;1;R$ 12,00;PIX
+04/10/2026;09:08;Tapioca de queijo coalho;1;R$ 14,00;PIX
+04/10/2026;09:03;Pão na chapa;2;R$ 7,00;Dinheiro
+04/10/2026;09:22;Bolo de Rolo fatia;1;R$ 10,00;Pix
+04/10/2026;10:09;Cafe Coado;1;R$ 6,00;pix
+04/10/2026;10:06;Tapioca de queijo coalho;1;R$ 14,00;Pix
+04/10/2026;10:42;Cuscus com ovo;1;R$ 13,00;Cartão Débito
+04/10/2026;10:58;Cafe Coado;1;R$ 6,00;dinheiro
+04/10/2026;11:01;cafe coado;1;R$ 6,00;PIX
+04/10/2026;11:24;Café Coado;1;R$ 6,00;Cartão Débito
+04/10/2026;11:23;bolo de rolo;1;R$ 10,00;PIX
+04/10/2026;11:36;Café gelado com rapadura;1;R$ 14,00;Dinheiro
+04/10/2026;11:09;Souza Leao;2;R$ 12,00;pix
+05/10/2026;07:07;Cafe Coado;1;R$ 6,00;pix
+05/10/2026;07:49;Cuscuz com ovo;1;R$ 13,00;Cartão Crédito
+05/10/2026;07:52;Pao na Chapa;1;R$ 7,00;Dinheiro
+05/10/2026;07:06;Tapioca de queijo coalho;1;R$ 14,00;Cartão Débito
+05/10/2026;07:04;Café Coado;1;R$ 6,00;Cartão Débito
+05/10/2026;07:31;Café coado;1;R$ 6,00;PIX
+05/10/2026;07:37;Pão na chapa;1;R$ 7,00;Cartão Débito
+05/10/2026;07:36;Pão na chapa;2;R$ 7,00;PIX
+05/10/2026;07:20;Tapioca de queijo coalho;3;R$ 14,00;Cartao Debito
+05/10/2026;08:28;CAFÉ COADO ;1;R$ 6,00;Cartão Débito
+05/10/2026;08:19;cafe coado;1;R$ 6,00;Dinheiro
+05/10/2026;08:23;Pão na chapa;1;R$ 7,00;Pix
+05/10/2026;08:55;capuccino;1;R$ 12,00;Cartão Débito
+05/10/2026;08:35;Pao na Chapa;1;R$ 7,00;Cartão Débito
+05/10/2026;08:32;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+05/10/2026;08:06;CAFÉ COADO ;1;R$ 6,00;Cartão Débito
+05/10/2026;08:45;Expresso;2;R$ 7,00;Cartão Crédito
+05/10/2026;09:26;Pão na chapa;1;R$ 7,00;PIX
+05/10/2026;09:03;Expresso;1;R$ 7,00;dinheiro
+05/10/2026;09:04;Espresso;1;R$ 7,00;pix
+05/10/2026;09:24;pao chapa;1;R$ 7,00;Cartao Debito
+05/10/2026;09:09;Bolo de rolo (fatia);1;R$ 10,00;Pix
+05/10/2026;10:41;cafe coado;1;R$ 6,00;PIX
+05/10/2026;10:38;tapioca coalho;1;R$ 14,00;dinheiro
+05/10/2026;10:47;Cafe Coado;1;R$ 6,00;Pix
+05/10/2026;11:05;Tapioca de queijo coalho;2;R$ 14,00;Cartao Debito
+05/10/2026;11:23;cartola;1;R$ 16,00;Cartao Debito
+05/10/2026;11:12;Café gelado com rapadura;1;R$ 14,00;PIX
+05/10/2026;11:04;capuccino;1;R$ 12,00;Dinheiro
+05/10/2026;11:56;brigadeiro un;2;R$ 4,00;Dinheiro
+05/10/2026;12:53;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+05/10/2026;13:26;capuccino;1;R$ 12,00;Dinheiro
+05/10/2026;14:15;Brigadeiro unid;1;R$ 4,00;Cartao Debito
+05/10/2026;14:30;cafe gelado;2;R$ 14,00;PIX
+05/10/2026;15:43;Expresso;1;R$ 7,00;Cartao Debito
+05/10/2026;15:32;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+05/10/2026;15:52;bolo de rolo;3;R$ 10,00;Dinheiro
+05/10/2026;16:06;Croisant;1;R$ 11,00;PIX
+05/10/2026;16:17;Gelado rapadura;1;R$ 14,00;Dinheiro
+05/10/2026;16:53;Bolo de Rolo fatia;1;R$ 10,00;Cartao Debito
+05/10/2026;16:14;Bolo de Rolo fatia;2;R$ 10,00;dinheiro
+05/10/2026;16:59;Brigadeiro unid;2;R$ 4,00;Cartao Debito
+05/10/2026;16:05;cafe gelado;1;R$ 14,00;dinheiro
+05/10/2026;17:59;Café gelado com rapadura;1;R$ 14,00;pix
+05/10/2026;17:21;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+05/10/2026;17:18;Brigadeiro;1;R$ 4,00;Cartao Debito
+05/10/2026;17:53;Expresso;1;R$ 7,00;PIX
+05/10/2026;17:28;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+05/10/2026;17:35;capuccino;2;R$ 12,00;PIX
+05/10/2026;17:27;espresso;1;R$ 7,00;Cartão Crédito
+05/10/2026;17:19;cafe coado;1;R$ 6,00;dinheiro
+05/10/2026;18:27;Capuccino;1;R$ 12,00;PIX
+06/10/2026;07:43;Pao na Chapa;2;R$ 7,00;dinheiro
+06/10/2026;07:54;Café coado;1;R$ 6,00;Cartão Débito
+06/10/2026;07:02;Cuscus com ovo;1;R$ 13,00;Pix
+06/10/2026;07:41;Café coado;1;R$ 6,00;Cartão Crédito
+06/10/2026;07:36;PÃO NA CHAPA;1;R$ 7,00;pix
+06/10/2026;07:28;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+06/10/2026;08:33;Espresso;1;R$ 7,00;Cartão Débito
+06/10/2026;08:17;pao chapa;1;R$ 7,00;PIX
+06/10/2026;08:16;Cuscus com ovo;1;R$ 13,00;PIX
+06/10/2026;08:31;Café coado;2;R$ 6,00;dinheiro
+06/10/2026;08:28;Pão na chapa;2;R$ 7,00;Cartão Débito
+06/10/2026;08:54;Bolo de Rolo fatia;2;R$ 10,00;Cartao Debito
+06/10/2026;08:45;Bolo de rolo (fatia);1;R$ 10,00;Cartão Crédito
+06/10/2026;08:57;Café Coado;1;R$ 6,00;Cartão Débito
+06/10/2026;09:12;Pão na chapa;1;R$ 7,00;dinheiro
+06/10/2026;09:23;Café Coado;1;R$ 6,00;Cartão Débito
+06/10/2026;09:30;Pao na Chapa;1;R$ 7,00;Dinheiro
+06/10/2026;09:52;cuscuz c/ ovo;1;R$ 13,00;Cartao Debito
+06/10/2026;09:20;cuscuz c/ ovo;1;R$ 13,00;Cartão Crédito
+06/10/2026;09:43;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+06/10/2026;10:37;Capuccino;1;R$ 12,00;PIX
+06/10/2026;10:27;Café Coado;3;R$ 6,00;Cartao Debito
+06/10/2026;10:10;Café coado;1;R$ 6,00;PIX
+06/10/2026;11:08;Cartola;1;R$ 16,00;Cartão Crédito
+06/10/2026;12:21;cartola;2;R$ 16,00;Cartão Débito
+06/10/2026;12:52;Croisant;1;R$ 11,00;PIX
+06/10/2026;13:13;Brigadeiro;1;R$ 4,00;Dinheiro
+06/10/2026;13:40;Brigadeiro unid;1;R$ 4,00;Pix
+06/10/2026;14:19;Bolo Souza Leão;1;R$ 12,00;Dinheiro
+06/10/2026;14:46;Café gelado com rapadura;1;R$ 14,00;PIX
+06/10/2026;14:25;tapioca coalho;1;R$ 14,00;dinheiro
+06/10/2026;14:07;cafe coado;1;R$ 6,00;Cartao Debito
+06/10/2026;15:06;cafe gelado;1;R$ 14,00;Cartão Débito
+06/10/2026;15:01;bolo de rolo;1;R$ 10,00;Cartão Débito
+06/10/2026;15:29;Café Coado;1;R$ 6,00;Cartão Débito
+06/10/2026;16:16;Cafe Coado;1;R$ 6,00;Cartão Crédito
+06/10/2026;16:35;Café coado;1;R$ 6,00;Pix
+06/10/2026;16:35;Gelado rapadura;1;R$ 14,00;dinheiro
+06/10/2026;16:43;cafe gelado;3;R$ 14,00;Dinheiro
+06/10/2026;17:21;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+06/10/2026;17:09;bolo souza leao;1;R$ 12,00;pix
+06/10/2026;17:45;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+06/10/2026;18:32;Croissant;1;R$ 11,00;Dinheiro
+07/10/2026;07:03;Cuscuz com ovo;1;R$ 13,00;dinheiro
+07/10/2026;07:30;cafe coado;1;R$ 6,00;pix
+07/10/2026;07:00;Café Coado;1;R$ 6,00;pix
+07/10/2026;07:10;bolo de rolo;3;R$ 10,00;dinheiro
+07/10/2026;07:56;pao chapa;2;R$ 7,00;PIX
+07/10/2026;07:48;Pão na chapa;1;R$ 7,00;pix
+07/10/2026;08:53;Croissant;1;R$ 11,00;Dinheiro
+07/10/2026;08:18;Expresso;2;R$ 7,00;pix
+07/10/2026;08:36;capuccino;1;R$ 12,00;Cartão Débito
+07/10/2026;08:34;Café Coado;3;R$ 6,00;Cartão Crédito
+07/10/2026;08:08;cuscuz c/ ovo;2;R$ 13,00;Pix
+07/10/2026;09:46;Espresso;1;R$ 7,00;Pix
+07/10/2026;09:11;Pao na Chapa;1;R$ 7,00;dinheiro
+07/10/2026;09:18;Cafe Coado;1;R$ 6,00;Dinheiro
+07/10/2026;09:11;cuscuz c/ ovo;1;R$ 13,00;pix
+07/10/2026;09:25;Cuscus com ovo;1;R$ 13,00;Pix
+07/10/2026;09:05;Cappuccino;1;R$ 12,00;Cartão Crédito
+07/10/2026;09:08;PÃO NA CHAPA;1;R$ 7,00;Dinheiro
+07/10/2026;09:00;pao chapa;2;R$ 7,00;Cartao Debito
+07/10/2026;10:19;Espresso;2;R$ 7,00;Cartão Débito
+07/10/2026;10:16;cuscuz c/ ovo;1;R$ 13,00;PIX
+07/10/2026;10:03;tapioca coalho;1;R$ 14,00;Dinheiro
+07/10/2026;10:10;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+07/10/2026;10:57;pao chapa;1;R$ 7,00;PIX
+07/10/2026;10:44;capuccino;1;R$ 12,00;Cartão Débito
+07/10/2026;11:18;CAFÉ COADO ;2;R$ 6,00;Cartão Crédito
+07/10/2026;11:08;cafe gelado;1;R$ 14,00;pix
+07/10/2026;11:38;bolo de rolo;1;R$ 10,00;dinheiro
+07/10/2026;11:58;Café gelado com rapadura;1;R$ 14,00;Cartao Debito
+07/10/2026;11:42;bolo de rolo;1;R$ 10,00;Pix
+07/10/2026;11:43;Brigadeiro unid;1;R$ 4,00;Cartao Debito
+07/10/2026;12:07;Café gelado com rapadura;2;R$ 14,00;pix
+07/10/2026;12:32;Café Coado;1;R$ 6,00;Cartão Débito
+
+07/10/2026;12:07;Café gelado com rapadura;1;R$ 14,00;Cartão Crédito
+07/10/2026;14:28;Bolo de Rolo fatia;2;R$ 10,00;Dinheiro
+07/10/2026;15:00;Café coado;1;R$ 6,00;pix
+07/10/2026;15:02;brigadeiro un;1;R$ 4,00;Pix
+07/10/2026;15:04;Tapioca de queijo coalho;2;R$ 14,00;dinheiro
+07/10/2026;16:41;brigadeiro un;3;R$ 4,00;Cartao Debito
+07/10/2026;16:57;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+07/10/2026;16:27;Bolo de rolo (fatia);1;R$ 10,00;Cartão Crédito
+07/10/2026;16:15;Bolo de Rolo fatia;2;R$ 10,00;Cartão Débito
+07/10/2026;17:12;bolo de rolo;1;R$ 10,00;pix
+07/10/2026;17:07;Expresso;1;R$ 7,00;dinheiro
+07/10/2026;17:39;Café coado;1;R$ 6,00;Pix
+07/10/2026;17:38;Capuccino;1;R$ 12,00;PIX
+07/10/2026;17:45;Café coado;1;R$ 6,00;Cartão Crédito
+07/10/2026;18:03;capuccino;2;R$ 12,00;PIX
+08/10/2026;07:37;Café Coado;2;R$ 6,00;Cartão Débito
+08/10/2026;07:12;Tapioca queijo coalho;1;R$ 14,00;Cartão Débito
+08/10/2026;07:53;Pao na Chapa;1;R$ 7,00;dinheiro
+08/10/2026;07:31;Bolo de rolo (fatia);1;R$ 10,00;dinheiro
+08/10/2026;07:22;pao chapa;1;R$ 7,00;Pix
+08/10/2026;08:34;pao chapa;2;R$ 7,00;PIX
+08/10/2026;08:33;bolo de rolo;2;R$ 10,00;Cartão Débito
+08/10/2026;08:52;Café Coado;2;R$ 6,00;Dinheiro
+08/10/2026;08:26;tapioca coalho;1;R$ 14,00;Dinheiro
+08/10/2026;08:40;pao chapa;1;R$ 7,00;Cartão Crédito
+08/10/2026;08:30;tapioca coalho;1;R$ 14,00;pix
+08/10/2026;08:33;Cuscuz com ovo;1;R$ 13,00;Cartao Debito
+08/10/2026;08:18;Tapioca queijo coalho;1;R$ 14,00;Dinheiro
+08/10/2026;08:43;Café coado;2;R$ 6,00;dinheiro
+08/10/2026;08:09;cafe coado;1;R$ 6,00;Pix
+08/10/2026;09:16;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+08/10/2026;09:25;Expresso;1;R$ 7,00;Cartão Débito
+08/10/2026;09:14;Cuscuz com ovo;3;R$ 13,00;pix
+08/10/2026;09:05;Pao na Chapa;2;R$ 7,00;Pix
+08/10/2026;09:48;Tapioca queijo coalho;2;R$ 14,00;pix
+08/10/2026;09:00;cuscuz c/ ovo;1;R$ 13,00;dinheiro
+08/10/2026;09:36;pao chapa;1;R$ 7,00;PIX
+08/10/2026;09:13;Cuscus com ovo;1;R$ 13,00;Cartão Débito
+08/10/2026;10:59;cuscuz c/ ovo;1;R$ 13,00;PIX
+08/10/2026;10:57;CAFÉ COADO ;2;R$ 6,00;Cartao Debito
+08/10/2026;10:45;cuscuz c/ ovo;1;R$ 13,00;Dinheiro
+08/10/2026;10:53;Cafe Coado;1;R$ 6,00;Dinheiro
+08/10/2026;11:05;Brigadeiro;1;R$ 4,00;Cartao Debito
+08/10/2026;11:03;Bolo de rolo (fatia);3;R$ 10,00;Cartão Crédito
+08/10/2026;11:04;Café Coado;1;R$ 6,00;Cartao Debito
+08/10/2026;12:49;Espresso;1;R$ 7,00;pix
+08/10/2026;12:50;Gelado rapadura;1;R$ 14,00;Pix
+08/10/2026;13:09;Brigadeiro unid;1;R$ 4,00;Cartão Crédito
+08/10/2026;13:09;Gelado rapadura;1;R$ 14,00;PIX
+08/10/2026;13:06;Brigadeiro;1;R$ 4,00;Dinheiro
+08/10/2026;14:06;Bolo de Rolo fatia;1;R$ 10,00;Cartão Crédito
+08/10/2026;14:06;Souza Leao;1;R$ 12,00;Pix
+08/10/2026;14:55;Souza Leao;1;R$ 12,00;Cartão Débito
+08/10/2026;14:24;Café gelado com rapadura;1;R$ 14,00;pix
+08/10/2026;14:35;brigadeiro un;1;R$ 4,00;Cartão Débito
+08/10/2026;14:36;Espresso;3;R$ 7,00;Cartão Crédito
+08/10/2026;14:10;Bolo de rolo (fatia);1;R$ 10,00;Cartão Débito
+08/10/2026;15:31;Café Coado;1;R$ 6,00;PIX
+08/10/2026;15:17;capuccino;1;R$ 12,00;Pix
+08/10/2026;15:28;cafe gelado;2;R$ 14,00;PIX
+08/10/2026;15:55;cafe gelado;2;R$ 14,00;PIX
+08/10/2026;15:19;Cartola;1;R$ 16,00;PIX
+08/10/2026;16:25;Cappuccino;1;R$ 12,00;Dinheiro
+08/10/2026;16:44;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+08/10/2026;16:50;Cartola;3;R$ 16,00;Pix
+08/10/2026;16:34;Souza Leao;1;R$ 12,00;Dinheiro
+08/10/2026;17:01;capuccino;1;R$ 12,00;pix
+08/10/2026;17:45;espresso;1;R$ 7,00;Dinheiro
+08/10/2026;17:08;Brigadeiro unid;1;R$ 4,00;Cartao Debito
+08/10/2026;17:42;cartola;1;R$ 16,00;PIX
+08/10/2026;17:24;Capuccino;1;R$ 12,00;Cartão Débito
+08/10/2026;17:30;Café coado;3;R$ 6,00;dinheiro
+08/10/2026;18:10;Capuccino;1;R$ 12,00;Pix
+08/10/2026;18:41;cartola;1;R$ 16,00;Cartao Debito
+08/10/2026;18:48;Cartola;1;R$ 16,00;Dinheiro
+09/10/2026;07:34;Cafe Coado;1;R$ 6,00;Dinheiro
+09/10/2026;07:36;Café coado;1;R$ 6,00;Pix
+09/10/2026;07:35;tapioca coalho;1;R$ 14,00;PIX
+09/10/2026;07:17;Cuscuz com ovo;1;R$ 13,00;dinheiro
+09/10/2026;07:23;espresso;2;R$ 7,00;Pix
+09/10/2026;07:48;cuscuz c/ ovo;1;R$ 13,00;pix
+09/10/2026;08:53;Bolo de rolo (fatia);1;R$ 10,00;Pix
+09/10/2026;08:22;Bolo de rolo (fatia);1;R$ 10,00;dinheiro
+09/10/2026;08:44;Café Coado;1;R$ 6,00;pix
+09/10/2026;08:40;PÃO NA CHAPA;1;R$ 7,00;Cartão Débito
+09/10/2026;08:50;PÃO NA CHAPA;1;R$ 7,00;Cartao Debito
+09/10/2026;08:03;CAFÉ COADO ;1;R$ 6,00;pix
+09/10/2026;08:38;Cuscus com ovo;1;R$ 13,00;Dinheiro
+Data;Hora;Produto;Qtd;Valor Unit.;Pagamento
+09/10/2026;08:45;cuscuz c/ ovo;1;R$ 13,00;Cartão Débito
+09/10/2026;08:54;Cafe Coado;1;R$ 6,00;dinheiro
+09/10/2026;09:50;cafe coado;3;R$ 6,00;Cartão Crédito
+09/10/2026;09:17;PÃO NA CHAPA;1;R$ 7,00;Pix
+09/10/2026;09:20;Cafe Coado;1;R$ 6,00;Pix
+09/10/2026;09:40;Pão na chapa;1;R$ 7,00;pix
+09/10/2026;10:47;Espresso;1;R$ 7,00;pix
+09/10/2026;10:23;Café Coado;2;R$ 6,00;PIX
+09/10/2026;10:37;PÃO NA CHAPA;1;R$ 7,00;pix
+09/10/2026;10:46;Café coado;1;R$ 6,00;dinheiro
+09/10/2026;11:27;Brigadeiro unid;1;R$ 4,00;Dinheiro
+09/10/2026;11:20;brigadeiro un;1;R$ 4,00;Pix
+09/10/2026;11:36;brigadeiro un;1;R$ 4,00;Cartao Debito
+09/10/2026;11:03;Gelado rapadura;1;R$ 14,00;Cartão Crédito
+09/10/2026;11:53;cafe coado;1;R$ 6,00;pix
+09/10/2026;12:17;capuccino;2;R$ 12,00;Cartão Débito
+09/10/2026;13:10;Gelado rapadura;2;R$ 14,00;Cartão Crédito
+09/10/2026;13:41;cartola;1;R$ 16,00;dinheiro
+09/10/2026;14:37;Capuccino;1;R$ 12,00;pix
+09/10/2026;14:00;capuccino;1;R$ 12,00;dinheiro
+
+09/10/2026;14:08;Tapioca queijo coalho;1;R$ 14,00;pix
+09/10/2026;15:20;Brigadeiro;1;R$ 4,00;PIX
+09/10/2026;15:41;Bolo de rolo (fatia);1;R$ 10,00;Cartão Débito
+09/10/2026;15:13;capuccino;1;R$ 12,00;dinheiro
+09/10/2026;15:13;Bolo Souza Leão;1;R$ 12,00;dinheiro
+09/10/2026;16:05;Café Coado;1;R$ 6,00;Cartão Crédito
+09/10/2026;16:44;Bolo Souza Leão;1;R$ 12,00;Cartão Crédito
+09/10/2026;16:56;cafe coado;2;R$ 6,00;Cartao Debito
+09/10/2026;16:32;cafe gelado;1;R$ 14,00;Cartao Debito
+09/10/2026;16:41;Capuccino;1;R$ 12,00;Cartao Debito
+09/10/2026;16:15;cafe coado;2;R$ 6,00;Pix
+09/10/2026;17:53;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+09/10/2026;17:43;bolo souza leao;1;R$ 12,00;Pix
+09/10/2026;17:49;capuccino;1;R$ 12,00;Dinheiro
+09/10/2026;17:00;Café coado;1;R$ 6,00;Cartao Debito
+09/10/2026;17:03;Gelado rapadura;1;R$ 14,00;dinheiro
+09/10/2026;18:09;Cartola;1;R$ 16,00;Cartão Débito
+09/10/2026;18:32;Café gelado com rapadura;1;R$ 14,00;pix
+10/10/2026;07:00;Expresso;1;R$ 7,00;PIX
+10/10/2026;07:34;Croissant;1;R$ 11,00;pix
+10/10/2026;07:48;Cafe Coado;1;R$ 6,00;Dinheiro
+10/10/2026;07:46;Tapioca queijo coalho;2;R$ 14,00;Cartao Debito
+10/10/2026;07:15;Pão na chapa;1;R$ 7,00;Cartão Débito
+10/10/2026;07:09;PÃO NA CHAPA;3;R$ 7,00;Dinheiro
+10/10/2026;07:58;Tapioca queijo coalho;1;R$ 14,00;Cartao Debito
+10/10/2026;07:26;CAFÉ COADO ;2;R$ 6,00;Pix
+10/10/2026;07:47;Tapioca de queijo coalho;1;R$ 14,00;pix
+10/10/2026;07:08;CAFÉ COADO ;1;R$ 6,00;pix
+10/10/2026;08:42;Cuscus com ovo;1;R$ 13,00;dinheiro
+10/10/2026;08:16;bolo de rolo;1;R$ 10,00;Pix
+10/10/2026;08:25;Capuccino;2;R$ 12,00;Cartão Crédito
+10/10/2026;08:20;Tapioca queijo coalho;1;R$ 14,00;dinheiro
+10/10/2026;08:12;Pao na Chapa;1;R$ 7,00;Dinheiro
+10/10/2026;08:29;Café coado;1;R$ 6,00;Cartão Débito
+10/10/2026;08:05;pao chapa;2;R$ 7,00;PIX
+10/10/2026;08:52;CAFÉ COADO ;1;R$ 6,00;Cartão Débito
+
+10/10/2026;08:13;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+10/10/2026;08:05;Capuccino;1;R$ 12,00;Cartao Debito
+10/10/2026;08:25;Tapioca de queijo coalho;3;R$ 14,00;Cartao Debito
+10/10/2026;09:25;Expresso;1;R$ 7,00;dinheiro
+10/10/2026;09:35;capuccino;1;R$ 12,00;Cartao Debito
+10/10/2026;09:03;Espresso;1;R$ 7,00;PIX
+10/10/2026;09:08;Capuccino;3;R$ 12,00;dinheiro
+10/10/2026;09:43;Cafe Coado;1;R$ 6,00;Pix
+10/10/2026;09:37;Tapioca de queijo coalho;1;R$ 14,00;pix
+10/10/2026;09:04;Cuscuz com ovo;2;R$ 13,00;pix
+10/10/2026;09:57;Café Coado;1;R$ 6,00;PIX
+10/10/2026;09:05;tapioca coalho;2;R$ 14,00;PIX
+10/10/2026;09:21;Croisant;2;R$ 11,00;Cartao Debito
+10/10/2026;10:22;pao chapa;1;R$ 7,00;PIX
+10/10/2026;10:17;CAFÉ COADO ;1;R$ 6,00;pix
+10/10/2026;10:39;Pao na Chapa;1;R$ 7,00;PIX
+10/10/2026;10:08;Cafe Coado;1;R$ 6,00;Dinheiro
+10/10/2026;10:51;Pão na chapa;1;R$ 7,00;Pix
+10/10/2026;10:24;Cuscus com ovo;1;R$ 13,00;pix
+10/10/2026;11:36;Brigadeiro;1;R$ 4,00;pix
+10/10/2026;11:01;CAFÉ COADO ;1;R$ 6,00;Cartão Débito
+10/10/2026;11:03;Expresso;1;R$ 7,00;pix
+10/10/2026;11:22;Brigadeiro;1;R$ 4,00;Cartao Debito
+10/10/2026;11:10;brigadeiro un;3;R$ 4,00;Pix
+10/10/2026;11:17;Café coado;1;R$ 6,00;Pix
+10/10/2026;11:47;bolo de rolo;1;R$ 10,00;Pix
+10/10/2026;11:14;Café Coado;3;R$ 6,00;pix
+10/10/2026;13:58;Brigadeiro;1;R$ 4,00;Cartão Crédito
+10/10/2026;14:51;Bolo Souza Leão;1;R$ 12,00;pix
+10/10/2026;15:33;Cappuccino;1;R$ 12,00;Cartão Crédito
+10/10/2026;15:45;capuccino;1;R$ 12,00;Cartão Débito
+10/10/2026;15:55;capuccino;2;R$ 12,00;Cartão Débito
+10/10/2026;15:37;Gelado rapadura;1;R$ 14,00;pix
+10/10/2026;15:07;cartola;1;R$ 16,00;Cartao Debito
+10/10/2026;16:35;Cartola;1;R$ 16,00;Cartão Crédito
+10/10/2026;16:50;Cartola;2;R$ 16,00;Cartao Debito
+10/10/2026;16:52;Café gelado com rapadura;1;R$ 14,00;Cartao Debito
+10/10/2026;16:00;cafe gelado;1;R$ 14,00;Cartao Debito
+10/10/2026;17:36;croissant;1;R$ 11,00;Cartão Crédito
+10/10/2026;17:09;Souza Leao;2;R$ 12,00;dinheiro
+10/10/2026;17:56;tapioca coalho;1;R$ 14,00;pix
+10/10/2026;17:28;cartola;2;R$ 16,00;pix
+10/10/2026;17:44;cafe coado;1;R$ 6,00;Dinheiro
+10/10/2026;17:06;CAFÉ COADO ;1;R$ 6,00;Cartão Débito
+10/10/2026;17:28;Brigadeiro unid;1;R$ 4,00;Cartao Debito
+10/10/2026;17:56;Brigadeiro;3;R$ 4,00;Cartao Debito
+10/10/2026;18:41;bolo de rolo;2;R$ 10,00;PIX
+11/10/2026;07:38;espresso;1;R$ 7,00;pix
+11/10/2026;07:35;Expresso;1;R$ 7,00;Cartão Crédito
+11/10/2026;07:17;PÃO NA CHAPA;1;R$ 7,00;PIX
+11/10/2026;07:33;Espresso;1;R$ 7,00;Cartão Crédito
+11/10/2026;07:09;Espresso;1;R$ 7,00;pix
+11/10/2026;07:48;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+11/10/2026;07:18;Cuscuz com ovo;1;R$ 13,00;pix
+11/10/2026;08:17;Expresso;1;R$ 7,00;pix
+11/10/2026;08:43;Cappuccino;2;R$ 12,00;PIX
+11/10/2026;08:08;Café coado;2;R$ 6,00;dinheiro
+11/10/2026;08:49;PÃO NA CHAPA;1;R$ 7,00;Dinheiro
+11/10/2026;08:26;Cappuccino;1;R$ 12,00;Cartao Debito
+11/10/2026;08:23;Pao na Chapa;1;R$ 7,00;dinheiro
+11/10/2026;08:25;CAFÉ COADO ;1;R$ 6,00;PIX
+11/10/2026;08:56;cafe coado;2;R$ 6,00;Pix
+11/10/2026;08:15;Capuccino;2;R$ 12,00;Dinheiro
+11/10/2026;08:52;Tapioca de queijo coalho;1;R$ 14,00;pix
+11/10/2026;09:55;pao chapa;1;R$ 7,00;pix
+11/10/2026;09:22;Pao na Chapa;1;R$ 7,00;PIX
+11/10/2026;09:47;CAFÉ COADO ;2;R$ 6,00;pix
+11/10/2026;09:01;Capuccino;1;R$ 12,00;Dinheiro
+11/10/2026;09:36;Pão na chapa;1;R$ 7,00;pix
+11/10/2026;09:55;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+11/10/2026;09:11;pao chapa;1;R$ 7,00;Cartão Débito
+11/10/2026;09:16;cuscuz c/ ovo;1;R$ 13,00;Pix
+11/10/2026;10:17;Tapioca de queijo coalho;1;R$ 14,00;Cartão Crédito
+
+11/10/2026;10:19;pao chapa;1;R$ 7,00;Cartão Crédito
+11/10/2026;10:42;Cuscus com ovo;1;R$ 13,00;Dinheiro
+11/10/2026;11:35;Tapioca queijo coalho;2;R$ 14,00;Dinheiro
+11/10/2026;11:19;Cartola;1;R$ 16,00;Pix
+12/10/2026;07:07;Pao na Chapa;1;R$ 7,00;pix
+12/10/2026;07:09;Pao na Chapa;2;R$ 7,00;Cartao Debito
+12/10/2026;07:26;Cafe Coado;1;R$ 6,00;Dinheiro
+12/10/2026;07:29;bolo de rolo;2;R$ 10,00;dinheiro
+12/10/2026;08:11;Café coado;2;R$ 6,00;PIX
+12/10/2026;08:40;espresso;1;R$ 7,00;pix
+12/10/2026;08:03;bolo de rolo;1;R$ 10,00;Cartão Crédito
+12/10/2026;08:10;Espresso;1;R$ 7,00;Dinheiro
+12/10/2026;08:05;pao chapa;1;R$ 7,00;pix
+12/10/2026;08:27;Café Coado;1;R$ 6,00;Cartão Débito
+12/10/2026;08:24;Pão na chapa;3;R$ 7,00;Cartão Crédito
+12/10/2026;08:20;pao chapa;1;R$ 7,00;Dinheiro
+12/10/2026;08:15;Tapioca queijo coalho;1;R$ 14,00;Dinheiro
+12/10/2026;08:19;Cafe Coado;2;R$ 6,00;PIX
+12/10/2026;09:29;Cafe Coado;2;R$ 6,00;pix
+12/10/2026;09:21;tapioca coalho;1;R$ 14,00;Pix
+12/10/2026;09:08;Pão na chapa;1;R$ 7,00;Cartão Crédito
+12/10/2026;09:22;Pão na chapa;2;R$ 7,00;Dinheiro
+12/10/2026;09:14;Croissant;1;R$ 11,00;pix
+12/10/2026;09:13;Café coado;3;R$ 6,00;Dinheiro
+12/10/2026;09:10;Tapioca de queijo coalho;1;R$ 14,00;dinheiro
+12/10/2026;09:50;Cafe Coado;1;R$ 6,00;Dinheiro
+12/10/2026;10:33;Pao na Chapa;1;R$ 7,00;Dinheiro
+12/10/2026;10:08;Café Coado;1;R$ 6,00;dinheiro
+12/10/2026;12:45;bolo de rolo;1;R$ 10,00;Cartão Crédito
+12/10/2026;12:53;cartola;2;R$ 16,00;Pix
+12/10/2026;13:04;Expresso;1;R$ 7,00;Dinheiro
+12/10/2026;14:16;Brigadeiro;1;R$ 4,00;pix
+
+12/10/2026;14:52;Gelado rapadura;1;R$ 14,00;Cartao Debito
+12/10/2026;15:20;Gelado rapadura;2;R$ 14,00;dinheiro
+12/10/2026;15:21;Cafe Coado;1;R$ 6,00;Cartao Debito
+12/10/2026;15:39;cafe gelado;1;R$ 14,00;dinheiro
+12/10/2026;15:23;Gelado rapadura;1;R$ 14,00;Cartão Crédito
+12/10/2026;15:53;bolo de rolo;1;R$ 10,00;Cartao Debito
+12/10/2026;16:03;Café Coado;1;R$ 6,00;Cartao Debito
+12/10/2026;16:06;Tapioca queijo coalho;2;R$ 14,00;Dinheiro
+12/10/2026;16:51;bolo de rolo;1;R$ 10,00;Cartao Debito
+12/10/2026;16:39;Souza Leao;1;R$ 12,00;Pix
+12/10/2026;16:46;Croissant;2;R$ 11,00;Dinheiro
+12/10/2026;17:41;Bolo de rolo (fatia);1;R$ 10,00;Pix
+12/10/2026;17:43;Café gelado com rapadura;1;R$ 14,00;dinheiro
+12/10/2026;18:42;bolo souza leao;3;R$ 12,00;Cartão Crédito
+12/10/2026;18:42;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+13/10/2026;07:00;PÃO NA CHAPA;3;R$ 7,00;PIX
+13/10/2026;07:59;Pao na Chapa;1;R$ 7,00;PIX
+13/10/2026;07:11;Pão na chapa;2;R$ 7,00;Dinheiro
+13/10/2026;07:52;tapioca coalho;1;R$ 14,00;Pix
+13/10/2026;07:38;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+13/10/2026;08:25;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+13/10/2026;08:28;Bolo de Rolo fatia;3;R$ 10,00;Pix
+13/10/2026;08:38;Expresso;1;R$ 7,00;Pix
+13/10/2026;08:19;tapioca coalho;1;R$ 14,00;Cartao Debito
+13/10/2026;08:20;capuccino;1;R$ 12,00;Cartão Débito
+13/10/2026;08:45;Café Coado;1;R$ 6,00;Cartão Crédito
+13/10/2026;08:43;cafe coado;1;R$ 6,00;Dinheiro
+13/10/2026;08:35;tapioca coalho;1;R$ 14,00;pix
+13/10/2026;09:56;capuccino;1;R$ 12,00;PIX
+13/10/2026;09:33;Cappuccino;2;R$ 12,00;Cartao Debito
+13/10/2026;09:48;Tapioca queijo coalho;1;R$ 14,00;Cartão Débito
+13/10/2026;09:44;Cafe Coado;2;R$ 6,00;pix
+13/10/2026;09:34;Expresso;1;R$ 7,00;Cartão Crédito
+13/10/2026;09:35;Cuscuz com ovo;1;R$ 13,00;PIX
+13/10/2026;10:35;Cappuccino;1;R$ 12,00;Pix
+13/10/2026;10:42;espresso;1;R$ 7,00;dinheiro
+13/10/2026;10:26;Café coado;1;R$ 6,00;Cartão Crédito
+13/10/2026;11:00;cafe gelado;1;R$ 14,00;PIX
+13/10/2026;11:55;brigadeiro un;1;R$ 4,00;Cartão Crédito
+13/10/2026;11:53;Brigadeiro;2;R$ 4,00;dinheiro
+13/10/2026;11:45;Capuccino;1;R$ 12,00;Cartão Débito
+13/10/2026;11:11;Tapioca de queijo coalho;1;R$ 14,00;Dinheiro
+13/10/2026;12:00;Cappuccino;2;R$ 12,00;Pix
+13/10/2026;12:09;Gelado rapadura;1;R$ 14,00;Cartão Crédito
+13/10/2026;13:14;Brigadeiro unid;1;R$ 4,00;Cartão Crédito
+13/10/2026;13:50;Expresso;1;R$ 7,00;dinheiro
+13/10/2026;13:56;Bolo de rolo (fatia);1;R$ 10,00;pix
+13/10/2026;13:23;Cappuccino;1;R$ 12,00;Cartão Crédito
+13/10/2026;13:39;cafe gelado;2;R$ 14,00;PIX
+13/10/2026;14:07;brigadeiro un;1;R$ 4,00;dinheiro
+13/10/2026;14:57;cartola;1;R$ 16,00;pix
+13/10/2026;14:20;Espresso;1;R$ 7,00;Pix
+13/10/2026;14:07;Café gelado com rapadura;1;R$ 14,00;Pix
+13/10/2026;15:57;Bolo de rolo (fatia);1;R$ 10,00;pix
+13/10/2026;16:11;Cafe Coado;1;R$ 6,00;Dinheiro
+13/10/2026;16:36;Brigadeiro;1;R$ 4,00;Dinheiro
+13/10/2026;16:26;brigadeiro un;2;R$ 4,00;Cartão Crédito
+13/10/2026;17:46;Café Coado;1;R$ 6,00;Cartão Crédito
+13/10/2026;17:22;Café coado;2;R$ 6,00;Dinheiro
+13/10/2026;17:50;Expresso;1;R$ 7,00;dinheiro
+13/10/2026;18:25;bolo de rolo;1;R$ 10,00;dinheiro
+13/10/2026;18:18;Brigadeiro;2;R$ 4,00;Dinheiro
+13/10/2026;18:43;tapioca coalho;1;R$ 14,00;Cartão Crédito
+13/10/2026;18:55;Croisant;3;R$ 11,00;pix
+13/10/2026;18:00;Brigadeiro;1;R$ 4,00;Dinheiro
+13/10/2026;18:07;bolo souza leao;1;R$ 12,00;Dinheiro
+14/10/2026;07:47;tapioca coalho;3;R$ 14,00;PIX
+14/10/2026;07:02;Tapioca de queijo coalho;2;R$ 14,00;Pix
+14/10/2026;07:42;Cafe Coado;1;R$ 6,00;PIX
+14/10/2026;07:23;cafe coado;2;R$ 6,00;pix
+14/10/2026;07:56;PÃO NA CHAPA;2;R$ 7,00;Pix
+14/10/2026;07:20;Café Coado;3;R$ 6,00;Dinheiro
+14/10/2026;07:40;cafe coado;3;R$ 6,00;pix
+14/10/2026;07:16;capuccino;2;R$ 12,00;Cartão Débito
+14/10/2026;07:24;Cuscus com ovo;1;R$ 13,00;Cartão Débito
+14/10/2026;07:41;Tapioca queijo coalho;1;R$ 14,00;Pix
+14/10/2026;07:33;pao chapa;2;R$ 7,00;dinheiro
+14/10/2026;08:22;PÃO NA CHAPA;2;R$ 7,00;Cartão Débito
+14/10/2026;08:28;Cafe Coado;2;R$ 6,00;Pix
+14/10/2026;08:10;CAFÉ COADO ;1;R$ 6,00;pix
+14/10/2026;08:07;Pão na chapa;1;R$ 7,00;PIX
+14/10/2026;08:21;tapioca coalho;1;R$ 14,00;Dinheiro
+14/10/2026;08:41;PÃO NA CHAPA;1;R$ 7,00;Dinheiro
+14/10/2026;08:02;Capuccino;1;R$ 12,00;Cartao Debito
+14/10/2026;08:08;Café coado;1;R$ 6,00;Pix
+14/10/2026;09:16;Cuscus com ovo;1;R$ 13,00;PIX
+14/10/2026;09:01;Cuscus com ovo;1;R$ 13,00;PIX
+14/10/2026;09:52;Capuccino;1;R$ 12,00;PIX
+14/10/2026;09:30;Cuscus com ovo;1;R$ 13,00;dinheiro
+14/10/2026;09:38;Café Coado;2;R$ 6,00;Pix
+14/10/2026;09:49;CAFÉ COADO ;1;R$ 6,00;Pix
+14/10/2026;09:16;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+14/10/2026;10:59;cafe coado;1;R$ 6,00;Cartão Débito
+14/10/2026;14:27;Croissant;1;R$ 11,00;Cartao Debito
+14/10/2026;14:14;Café Coado;1;R$ 6,00;dinheiro
+14/10/2026;15:50;Capuccino;1;R$ 12,00;Cartão Débito
+14/10/2026;15:33;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+14/10/2026;15:44;CAFÉ COADO ;1;R$ 6,00;dinheiro
+14/10/2026;15:43;Gelado rapadura;1;R$ 14,00;Cartao Debito
+14/10/2026;16:35;Café gelado com rapadura;1;R$ 14,00;pix
+14/10/2026;16:19;Bolo Souza Leão;1;R$ 12,00;Cartão Débito
+14/10/2026;16:25;Souza Leao;1;R$ 12,00;Cartão Crédito
+14/10/2026;16:50;CAFÉ COADO ;1;R$ 6,00;pix
+14/10/2026;16:13;cartola;1;R$ 16,00;dinheiro
+14/10/2026;17:09;CAFÉ COADO ;1;R$ 6,00;pix
+14/10/2026;17:05;cafe coado;1;R$ 6,00;pix
+14/10/2026;17:59;bolo souza leao;1;R$ 12,00;Cartao Debito
+14/10/2026;18:03;Café gelado com rapadura;3;R$ 14,00;Cartão Débito
+15/10/2026;07:55;cafe coado;1;R$ 6,00;PIX
+15/10/2026;07:09;Café coado;1;R$ 6,00;Dinheiro
+15/10/2026;07:05;Espresso;1;R$ 7,00;Cartão Crédito
+15/10/2026;07:39;tapioca coalho;1;R$ 14,00;Cartão Crédito
+15/10/2026;07:02;Cafe Coado;2;R$ 6,00;dinheiro
+15/10/2026;07:20;capuccino;1;R$ 12,00;dinheiro
+15/10/2026;07:11;cuscuz c/ ovo;1;R$ 13,00;PIX
+15/10/2026;08:30;Café Coado;1;R$ 6,00;Cartão Crédito
+15/10/2026;08:33;pao chapa;1;R$ 7,00;Cartão Débito
+15/10/2026;08:00;Pão na chapa;1;R$ 7,00;Cartão Débito
+15/10/2026;08:06;Tapioca queijo coalho;1;R$ 14,00;PIX
+15/10/2026;08:16;pao chapa;1;R$ 7,00;Cartão Débito
+15/10/2026;08:26;Café Coado;1;R$ 6,00;Dinheiro
+15/10/2026;09:43;cuscuz c/ ovo;3;R$ 13,00;Pix
+15/10/2026;09:17;Café coado;1;R$ 6,00;Pix
+15/10/2026;09:54;Espresso;1;R$ 7,00;dinheiro
+15/10/2026;09:47;pao chapa;1;R$ 7,00;Cartão Débito
+15/10/2026;09:11;cafe coado;2;R$ 6,00;Cartão Débito
+15/10/2026;09:57;PÃO NA CHAPA;1;R$ 7,00;pix
+15/10/2026;09:46;capuccino;1;R$ 12,00;Cartao Debito
+15/10/2026;10:13;Café Coado;1;R$ 6,00;Cartão Débito
+15/10/2026;10:40;Espresso;1;R$ 7,00;pix
+15/10/2026;10:16;Café Coado;1;R$ 6,00;Cartão Débito
+15/10/2026;10:59;PÃO NA CHAPA;1;R$ 7,00;dinheiro
+15/10/2026;10:26;Espresso;1;R$ 7,00;Cartão Crédito
+15/10/2026;12:32;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+15/10/2026;12:29;Cafe Coado;1;R$ 6,00;Pix
+15/10/2026;13:10;Croissant;1;R$ 11,00;Cartão Débito
+15/10/2026;14:41;cafe gelado;1;R$ 14,00;PIX
+15/10/2026;14:49;Café gelado com rapadura;2;R$ 14,00;dinheiro
+15/10/2026;14:37;Croissant;1;R$ 11,00;dinheiro
+15/10/2026;15:59;cafe gelado;1;R$ 14,00;Dinheiro
+15/10/2026;16:05;brigadeiro un;1;R$ 4,00;pix
+15/10/2026;16:19;cartola;2;R$ 16,00;Cartao Debito
+15/10/2026;16:53;cartola;1;R$ 16,00;Cartao Debito
+15/10/2026;16:22;Cappuccino;1;R$ 12,00;Cartão Crédito
+15/10/2026;16:59;Bolo de Rolo fatia;2;R$ 10,00;Cartao Debito
+15/10/2026;17:47;Bolo Souza Leão;1;R$ 12,00;pix
+15/10/2026;17:58;cartola;1;R$ 16,00;dinheiro
+15/10/2026;17:51;Café gelado com rapadura;1;R$ 14,00;Pix
+15/10/2026;17:00;capuccino;1;R$ 12,00;Cartao Debito
+15/10/2026;18:00;cafe gelado;1;R$ 14,00;Cartão Crédito
+15/10/2026;18:48;Cartola;1;R$ 16,00;Cartão Débito
+15/10/2026;18:50;Brigadeiro;1;R$ 4,00;Cartão Débito
+16/10/2026;07:10;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+16/10/2026;07:25;Expresso;1;R$ 7,00;Pix
+16/10/2026;07:02;espresso;1;R$ 7,00;Cartão Débito
+16/10/2026;07:44;Cuscuz com ovo;1;R$ 13,00;Cartão Crédito
+16/10/2026;07:05;cuscuz c/ ovo;1;R$ 13,00;pix
+16/10/2026;07:48;Cuscus com ovo;2;R$ 13,00;pix
+16/10/2026;07:41;Cuscus com ovo;1;R$ 13,00;dinheiro
+16/10/2026;07:06;Cafe Coado;1;R$ 6,00;Cartao Debito
+16/10/2026;07:35;CAFÉ COADO ;1;R$ 6,00;dinheiro
+16/10/2026;08:01;Capuccino;1;R$ 12,00;Cartão Crédito
+16/10/2026;08:08;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+16/10/2026;08:44;Pao na Chapa;1;R$ 7,00;dinheiro
+16/10/2026;08:17;PÃO NA CHAPA;1;R$ 7,00;Dinheiro
+
+16/10/2026;08:34;PÃO NA CHAPA;2;R$ 7,00;PIX
+16/10/2026;08:40;Pao na Chapa;1;R$ 7,00;pix
+16/10/2026;08:49;CAFÉ COADO ;2;R$ 6,00;PIX
+16/10/2026;09:52;cafe coado;3;R$ 6,00;Cartão Débito
+16/10/2026;09:31;Pao na Chapa;1;R$ 7,00;Cartao Debito
+16/10/2026;09:07;Pão na chapa;1;R$ 7,00;Cartão Crédito
+16/10/2026;09:02;Cafe Coado;1;R$ 6,00;Cartão Crédito
+16/10/2026;09:55;capuccino;1;R$ 12,00;Cartão Débito
+16/10/2026;09:53;Café coado;1;R$ 6,00;dinheiro
+16/10/2026;10:39;Pão na chapa;1;R$ 7,00;Pix
+16/10/2026;10:29;croissant;2;R$ 11,00;dinheiro
+16/10/2026;11:26;Souza Leao;2;R$ 12,00;dinheiro
+16/10/2026;11:03;Brigadeiro;1;R$ 4,00;Dinheiro
+16/10/2026;11:04;Brigadeiro unid;2;R$ 4,00;dinheiro
+16/10/2026;11:06;espresso;3;R$ 7,00;Dinheiro
+16/10/2026;12:35;Bolo Souza Leão;2;R$ 12,00;Cartão Crédito
+16/10/2026;12:06;brigadeiro un;1;R$ 4,00;dinheiro
+16/10/2026;14:35;Espresso;2;R$ 7,00;dinheiro
+16/10/2026;15:15;Brigadeiro unid;1;R$ 4,00;Pix
+16/10/2026;15:49;Souza Leao;1;R$ 12,00;Dinheiro
+16/10/2026;15:23;Bolo Souza Leão;1;R$ 12,00;Cartao Debito
+16/10/2026;15:25;tapioca coalho;1;R$ 14,00;Pix
+16/10/2026;15:18;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+16/10/2026;16:56;bolo souza leao;1;R$ 12,00;PIX
+16/10/2026;16:14;Café gelado com rapadura;1;R$ 14,00;Cartão Crédito
+16/10/2026;16:49;Capuccino;1;R$ 12,00;dinheiro
+16/10/2026;16:17;Brigadeiro;1;R$ 4,00;pix
+16/10/2026;16:02;Espresso;1;R$ 7,00;dinheiro
+16/10/2026;16:14;Café gelado com rapadura;1;R$ 14,00;Cartao Debito
+16/10/2026;17:57;Bolo de Rolo fatia;1;R$ 10,00;PIX
+16/10/2026;17:58;cartola;1;R$ 16,00;Dinheiro
+16/10/2026;17:02;Cafe Coado;1;R$ 6,00;PIX
+16/10/2026;17:26;Café gelado com rapadura;2;R$ 14,00;Cartão Crédito
+16/10/2026;17:38;Capuccino;1;R$ 12,00;PIX
+16/10/2026;17:40;Expresso;1;R$ 7,00;dinheiro
+16/10/2026;18:02;cafe gelado;1;R$ 14,00;Pix
+16/10/2026;18:05;Brigadeiro unid;1;R$ 4,00;Pix
+17/10/2026;07:55;Café Coado;1;R$ 6,00;pix
+17/10/2026;07:12;Cuscuz com ovo;1;R$ 13,00;dinheiro
+17/10/2026;07:59;pao chapa;1;R$ 7,00;Pix
+17/10/2026;07:25;cuscuz c/ ovo;1;R$ 13,00;Cartao Debito
+17/10/2026;07:15;pao chapa;1;R$ 7,00;Cartão Crédito
+17/10/2026;07:56;espresso;1;R$ 7,00;Cartão Crédito
+17/10/2026;07:01;PÃO NA CHAPA;3;R$ 7,00;PIX
+17/10/2026;07:14;croissant;2;R$ 11,00;PIX
+17/10/2026;07:42;Cafe Coado;2;R$ 6,00;PIX
+
+17/10/2026;07:33;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+17/10/2026;07:40;Croissant;1;R$ 11,00;Cartão Crédito
+17/10/2026;08:36;tapioca coalho;1;R$ 14,00;Cartão Débito
+17/10/2026;08:58;Café coado;3;R$ 6,00;Cartão Crédito
+17/10/2026;08:08;Cuscus com ovo;1;R$ 13,00;pix
+17/10/2026;08:34;cafe coado;1;R$ 6,00;Cartão Débito
+17/10/2026;08:33;Pão na chapa;1;R$ 7,00;PIX
+17/10/2026;08:58;Croissant;1;R$ 11,00;pix
+17/10/2026;08:59;Bolo de rolo (fatia);1;R$ 10,00;Cartão Crédito
+17/10/2026;08:56;Tapioca de queijo coalho;1;R$ 14,00;Cartão Débito
+17/10/2026;08:57;pao chapa;2;R$ 7,00;Dinheiro
+17/10/2026;08:09;Tapioca de queijo coalho;1;R$ 14,00;Cartão Débito
+17/10/2026;09:39;Cuscuz com ovo;1;R$ 13,00;pix
+17/10/2026;09:43;Cafe Coado;1;R$ 6,00;Pix
+17/10/2026;09:38;PÃO NA CHAPA;1;R$ 7,00;PIX
+17/10/2026;09:11;pao chapa;1;R$ 7,00;Dinheiro
+17/10/2026;09:08;Capuccino;1;R$ 12,00;Dinheiro
+17/10/2026;09:26;Cafe Coado;1;R$ 6,00;Pix
+17/10/2026;09:42;Croissant;1;R$ 11,00;Pix
+17/10/2026;09:04;Bolo de rolo (fatia);1;R$ 10,00;Pix
+17/10/2026;09:20;capuccino;1;R$ 12,00;Cartão Crédito
+17/10/2026;10:25;Capuccino;1;R$ 12,00;Dinheiro
+17/10/2026;10:38;Cuscuz com ovo;1;R$ 13,00;Cartão Crédito
+17/10/2026;10:28;espresso;1;R$ 7,00;Pix
+17/10/2026;10:25;Bolo de rolo (fatia);1;R$ 10,00;PIX
+17/10/2026;11:03;cafe gelado;1;R$ 14,00;Dinheiro
+17/10/2026;11:56;Cappuccino;1;R$ 12,00;Cartão Crédito
+17/10/2026;11:29;cafe gelado;2;R$ 14,00;Pix
+17/10/2026;11:58;capuccino;1;R$ 12,00;Cartao Debito
+17/10/2026;11:09;Café Coado;1;R$ 6,00;Dinheiro
+17/10/2026;11:05;Bolo de rolo (fatia);1;R$ 10,00;Cartao Debito
+17/10/2026;12:49;brigadeiro un;1;R$ 4,00;PIX
+17/10/2026;12:57;cafe coado;1;R$ 6,00;pix
+17/10/2026;12:29;Brigadeiro;1;R$ 4,00;pix
+17/10/2026;12:41;Cafe Coado;1;R$ 6,00;PIX
+17/10/2026;13:05;Cartola;1;R$ 16,00;Cartao Debito
+17/10/2026;13:50;bolo de rolo;1;R$ 10,00;pix
+17/10/2026;13:49;Café gelado com rapadura;1;R$ 14,00;pix
+17/10/2026;13:55;Cartola;1;R$ 16,00;Cartão Crédito
+17/10/2026;14:49;Bolo de rolo (fatia);1;R$ 10,00;pix
+17/10/2026;14:11;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+17/10/2026;14:12;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+17/10/2026;15:56;Bolo Souza Leão;1;R$ 12,00;PIX
+17/10/2026;15:42;bolo de rolo;1;R$ 10,00;PIX
+17/10/2026;15:05;Bolo de rolo (fatia);1;R$ 10,00;Dinheiro
+17/10/2026;15:11;brigadeiro un;1;R$ 4,00;pix
+17/10/2026;16:36;Cappuccino;1;R$ 12,00;Cartão Crédito
+17/10/2026;16:42;Cappuccino;1;R$ 12,00;Dinheiro
+17/10/2026;16:05;Bolo Souza Leão;2;R$ 12,00;dinheiro
+17/10/2026;16:57;brigadeiro un;1;R$ 4,00;dinheiro
+17/10/2026;16:27;Gelado rapadura;1;R$ 14,00;PIX
+17/10/2026;16:30;croissant;1;R$ 11,00;Cartao Debito
+17/10/2026;17:40;Café coado;1;R$ 6,00;Cartão Crédito
+17/10/2026;17:46;Bolo de Rolo fatia;1;R$ 10,00;Pix
+17/10/2026;17:45;Cartola;2;R$ 16,00;pix
+17/10/2026;17:36;Café gelado com rapadura;1;R$ 14,00;pix
+17/10/2026;17:31;Bolo de rolo (fatia);1;R$ 10,00;Pix
+17/10/2026;17:39;bolo de rolo;1;R$ 10,00;Pix
+17/10/2026;18:12;Capuccino;1;R$ 12,00;pix
+17/10/2026;18:51;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+17/10/2026;18:12;cartola;1;R$ 16,00;Cartao Debito
+17/10/2026;18:20;Café gelado com rapadura;1;R$ 14,00;Cartão Crédito
+18/10/2026;07:24;Croisant;1;R$ 11,00;pix
+18/10/2026;07:11;Café Coado;1;R$ 6,00;Dinheiro
+18/10/2026;07:40;Tapioca de queijo coalho;2;R$ 14,00;pix
+18/10/2026;07:39;capuccino;1;R$ 12,00;PIX
+18/10/2026;07:12;pao chapa;1;R$ 7,00;pix
+18/10/2026;07:52;Pão na chapa;1;R$ 7,00;dinheiro
+18/10/2026;07:06;Expresso;1;R$ 7,00;Cartão Débito
+18/10/2026;07:14;espresso;1;R$ 7,00;Dinheiro
+18/10/2026;07:44;Croissant;1;R$ 11,00;dinheiro
+18/10/2026;08:55;Croisant;1;R$ 11,00;dinheiro
+18/10/2026;08:30;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+18/10/2026;08:49;pao chapa;1;R$ 7,00;Cartao Debito
+18/10/2026;08:32;PÃO NA CHAPA;1;R$ 7,00;dinheiro
+18/10/2026;08:50;CAFÉ COADO ;2;R$ 6,00;Cartao Debito
+18/10/2026;08:04;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+18/10/2026;08:15;Cuscus com ovo;1;R$ 13,00;pix
+18/10/2026;08:24;cuscuz c/ ovo;3;R$ 13,00;Pix
+18/10/2026;08:44;Cuscus com ovo;1;R$ 13,00;Cartao Debito
+18/10/2026;08:04;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+18/10/2026;08:53;tapioca coalho;1;R$ 14,00;Pix
+18/10/2026;08:28;pao chapa;1;R$ 7,00;Dinheiro
+18/10/2026;09:52;Café coado;1;R$ 6,00;Cartão Débito
+18/10/2026;09:20;Cuscus com ovo;2;R$ 13,00;Cartão Débito
+18/10/2026;09:37;cafe coado;1;R$ 6,00;Cartão Crédito
+18/10/2026;09:00;Croissant;1;R$ 11,00;PIX
+18/10/2026;09:36;cuscuz c/ ovo;1;R$ 13,00;Cartão Débito
+18/10/2026;09:56;pao chapa;1;R$ 7,00;Cartão Crédito
+18/10/2026;09:58;pao chapa;1;R$ 7,00;Cartão Débito
+18/10/2026;09:08;Bolo de Rolo fatia;1;R$ 10,00;pix
+18/10/2026;09:57;capuccino;1;R$ 12,00;Dinheiro
+18/10/2026;09:45;cuscuz c/ ovo;1;R$ 13,00;PIX
+18/10/2026;10:07;cuscuz c/ ovo;3;R$ 13,00;Cartao Debito
+18/10/2026;10:11;PÃO NA CHAPA;1;R$ 7,00;dinheiro
+18/10/2026;10:24;pao chapa;1;R$ 7,00;Cartao Debito
+
+18/10/2026;10:26;Capuccino;1;R$ 12,00;Cartao Debito
+18/10/2026;10:41;Café coado;1;R$ 6,00;Pix
+18/10/2026;10:31;Cafe Coado;1;R$ 6,00;pix
+18/10/2026;10:08;Tapioca de queijo coalho;3;R$ 14,00;Cartão Débito
+18/10/2026;10:44;Cappuccino;2;R$ 12,00;Dinheiro
+18/10/2026;11:35;Cappuccino;1;R$ 12,00;Cartão Débito
+18/10/2026;11:14;Brigadeiro;1;R$ 4,00;Cartão Débito
+18/10/2026;11:45;bolo de rolo;1;R$ 10,00;pix
+19/10/2026;07:21;Espresso;2;R$ 7,00;pix
+19/10/2026;07:31;Croissant;1;R$ 11,00;Cartao Debito
+19/10/2026;07:53;Café Coado;1;R$ 6,00;Pix
+19/10/2026;08:10;espresso;1;R$ 7,00;Pix
+19/10/2026;08:30;PÃO NA CHAPA;1;R$ 7,00;Cartão Débito
+19/10/2026;08:55;Pao na Chapa;1;R$ 7,00;Pix
+19/10/2026;08:51;PÃO NA CHAPA;1;R$ 7,00;pix
+19/10/2026;08:58;tapioca coalho;1;R$ 14,00;Cartão Crédito
+19/10/2026;08:54;Cuscuz com ovo;1;R$ 13,00;Dinheiro
+19/10/2026;08:54;Pao na Chapa;2;R$ 7,00;Pix
+19/10/2026;08:51;Cafe Coado;1;R$ 6,00;pix
+19/10/2026;09:25;Cafe Coado;1;R$ 6,00;Cartao Debito
+19/10/2026;09:15;Pão na chapa;1;R$ 7,00;Pix
+19/10/2026;09:12;tapioca coalho;1;R$ 14,00;Cartão Crédito
+19/10/2026;09:11;Cuscus com ovo;1;R$ 13,00;dinheiro
+19/10/2026;09:06;Capuccino;1;R$ 12,00;Dinheiro
+19/10/2026;09:22;Cuscuz com ovo;1;R$ 13,00;Cartao Debito
+19/10/2026;09:12;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+19/10/2026;09:03;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+19/10/2026;09:07;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+19/10/2026;10:44;Bolo de rolo (fatia);2;R$ 10,00;dinheiro
+19/10/2026;10:42;Cafe Coado;1;R$ 6,00;Cartão Débito
+19/10/2026;10:44;Bolo de Rolo fatia;1;R$ 10,00;Cartao Debito
+19/10/2026;11:20;espresso;1;R$ 7,00;dinheiro
+19/10/2026;12:39;Bolo de Rolo fatia;2;R$ 10,00;Dinheiro
+19/10/2026;12:28;Souza Leao;1;R$ 12,00;Dinheiro
+19/10/2026;12:04;Brigadeiro;1;R$ 4,00;Pix
+19/10/2026;13:49;Café Coado;1;R$ 6,00;Cartão Débito
+19/10/2026;13:09;Bolo de Rolo fatia;2;R$ 10,00;Dinheiro
+19/10/2026;13:02;Cartola;1;R$ 16,00;Cartão Crédito
+19/10/2026;14:36;cartola;2;R$ 16,00;dinheiro
+19/10/2026;14:49;Café coado;1;R$ 6,00;PIX
+19/10/2026;15:21;Bolo de Rolo fatia;3;R$ 10,00;Dinheiro
+19/10/2026;15:23;Tapioca de queijo coalho;1;R$ 14,00;Cartão Débito
+19/10/2026;15:05;Bolo de rolo (fatia);3;R$ 10,00;Cartão Crédito
+19/10/2026;16:12;Cafe Coado;1;R$ 6,00;PIX
+19/10/2026;16:19;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+19/10/2026;16:51;bolo de rolo;3;R$ 10,00;Cartão Crédito
+19/10/2026;17:46;Café gelado com rapadura;1;R$ 14,00;Cartao Debito
+19/10/2026;17:51;Café Coado;1;R$ 6,00;Cartão Crédito
+19/10/2026;17:43;cartola;1;R$ 16,00;pix
+19/10/2026;17:47;Croisant;1;R$ 11,00;Cartão Crédito
+19/10/2026;18:08;CAFÉ COADO ;1;R$ 6,00;pix
+19/10/2026;18:57;Café Coado;1;R$ 6,00;Cartão Crédito
+20/10/2026;07:13;Café coado;1;R$ 6,00;Cartão Débito
+20/10/2026;07:51;Pao na Chapa;1;R$ 7,00;Pix
+20/10/2026;07:06;Cappuccino;1;R$ 12,00;Dinheiro
+20/10/2026;07:11;Tapioca queijo coalho;2;R$ 14,00;pix
+20/10/2026;07:46;cafe coado;2;R$ 6,00;Cartao Debito
+20/10/2026;07:26;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+20/10/2026;08:20;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+20/10/2026;08:26;cafe coado;1;R$ 6,00;Cartão Crédito
+20/10/2026;08:14;Cappuccino;1;R$ 12,00;Cartao Debito
+20/10/2026;08:03;Café coado;1;R$ 6,00;Cartao Debito
+20/10/2026;08:23;Cuscus com ovo;1;R$ 13,00;pix
+20/10/2026;08:40;Café Coado;1;R$ 6,00;Cartão Débito
+20/10/2026;08:21;PÃO NA CHAPA;1;R$ 7,00;Cartao Debito
+20/10/2026;08:29;CAFÉ COADO ;1;R$ 6,00;Cartão Crédito
+20/10/2026;09:35;croissant;1;R$ 11,00;Pix
+20/10/2026;09:54;capuccino;1;R$ 12,00;Cartao Debito
+20/10/2026;09:13;Cuscuz com ovo;2;R$ 13,00;Cartão Crédito
+20/10/2026;09:17;cuscuz c/ ovo;2;R$ 13,00;PIX
+20/10/2026;09:55;cafe coado;1;R$ 6,00;Cartao Debito
+20/10/2026;09:09;cafe coado;2;R$ 6,00;Cartão Débito
+20/10/2026;09:26;Croissant;2;R$ 11,00;dinheiro
+20/10/2026;09:27;Tapioca de queijo coalho;1;R$ 14,00;pix
+20/10/2026;09:51;Cuscuz com ovo;1;R$ 13,00;PIX
+20/10/2026;09:31;Tapioca queijo coalho;1;R$ 14,00;dinheiro
+20/10/2026;10:41;Café coado;1;R$ 6,00;Cartão Débito
+20/10/2026;10:42;Bolo de Rolo fatia;1;R$ 10,00;Dinheiro
+20/10/2026;10:45;PÃO NA CHAPA;1;R$ 7,00;Cartao Debito
+20/10/2026;10:23;Pao na Chapa;1;R$ 7,00;Cartao Debito
+20/10/2026;11:50;bolo souza leao;1;R$ 12,00;Cartão Débito
+20/10/2026;11:21;cartola;1;R$ 16,00;Pix
+20/10/2026;12:39;cafe coado;1;R$ 6,00;Cartão Crédito
+20/10/2026;12:41;cafe coado;1;R$ 6,00;pix
+20/10/2026;13:21;Brigadeiro unid;1;R$ 4,00;dinheiro
+20/10/2026;14:48;Croissant;1;R$ 11,00;Cartão Débito
+20/10/2026;14:22;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+20/10/2026;14:27;espresso;1;R$ 7,00;PIX
+20/10/2026;14:22;cafe gelado;1;R$ 14,00;dinheiro
+20/10/2026;15:53;Bolo de rolo (fatia);1;R$ 10,00;pix
+20/10/2026;15:43;Cafe Coado;1;R$ 6,00;PIX
+20/10/2026;15:44;cartola;1;R$ 16,00;pix
+20/10/2026;15:18;CAFÉ COADO ;2;R$ 6,00;Pix
+20/10/2026;15:10;Expresso;1;R$ 7,00;Cartao Debito
+20/10/2026;16:33;Bolo de Rolo fatia;2;R$ 10,00;PIX
+20/10/2026;16:04;cartola;1;R$ 16,00;Dinheiro
+20/10/2026;16:50;Bolo Souza Leão;1;R$ 12,00;Dinheiro
+20/10/2026;17:44;cafe gelado;1;R$ 14,00;Cartao Debito
+20/10/2026;17:50;Gelado rapadura;1;R$ 14,00;Cartao Debito
+20/10/2026;17:14;Gelado rapadura;1;R$ 14,00;Dinheiro
+20/10/2026;17:59;Bolo de Rolo fatia;1;R$ 10,00;Cartão Crédito
+20/10/2026;17:11;capuccino;1;R$ 12,00;PIX
+20/10/2026;17:10;Expresso;1;R$ 7,00;Pix
+20/10/2026;17:20;Cappuccino;1;R$ 12,00;Pix
+20/10/2026;18:45;Gelado rapadura;1;R$ 14,00;pix
+21/10/2026;07:31;pao chapa;1;R$ 7,00;pix
+21/10/2026;07:19;Espresso;1;R$ 7,00;dinheiro
+21/10/2026;07:30;croissant;2;R$ 11,00;Pix
+21/10/2026;07:18;Cafe Coado;1;R$ 6,00;Dinheiro
+21/10/2026;07:44;PÃO NA CHAPA;1;R$ 7,00;dinheiro
+21/10/2026;07:48;Tapioca queijo coalho;1;R$ 14,00;pix
+21/10/2026;08:37;CAFÉ COADO ;1;R$ 6,00;pix
+21/10/2026;08:16;Pao na Chapa;1;R$ 7,00;dinheiro
+21/10/2026;08:44;Tapioca queijo coalho;1;R$ 14,00;Dinheiro
+21/10/2026;08:46;Expresso;1;R$ 7,00;Pix
+21/10/2026;08:10;Cuscuz com ovo;2;R$ 13,00;Cartao Debito
+21/10/2026;08:29;Cuscus com ovo;1;R$ 13,00;PIX
+21/10/2026;08:10;Cappuccino;1;R$ 12,00;Cartão Crédito
+21/10/2026;08:40;Café Coado;1;R$ 6,00;PIX
+
+21/10/2026;08:18;croissant;1;R$ 11,00;Cartao Debito
+21/10/2026;08:11;Cuscus com ovo;1;R$ 13,00;Cartão Crédito
+21/10/2026;09:10;Espresso;1;R$ 7,00;Cartão Débito
+21/10/2026;09:17;Capuccino;1;R$ 12,00;pix
+21/10/2026;09:06;Tapioca queijo coalho;1;R$ 14,00;Pix
+21/10/2026;09:23;cafe coado;1;R$ 6,00;Cartão Crédito
+21/10/2026;09:58;Expresso;1;R$ 7,00;pix
+21/10/2026;09:07;cuscuz c/ ovo;1;R$ 13,00;PIX
+21/10/2026;09:07;Pão na chapa;2;R$ 7,00;Cartao Debito
+21/10/2026;09:30;Espresso;2;R$ 7,00;Cartão Crédito
+21/10/2026;09:08;pao chapa;1;R$ 7,00;Pix
+21/10/2026;09:38;espresso;2;R$ 7,00;pix
+21/10/2026;11:19;cartola;1;R$ 16,00;dinheiro
+21/10/2026;11:07;Bolo de Rolo fatia;1;R$ 10,00;Dinheiro
+21/10/2026;12:06;Brigadeiro;1;R$ 4,00;Pix
+21/10/2026;12:37;CAFÉ COADO ;1;R$ 6,00;pix
+21/10/2026;12:00;Cafe Coado;1;R$ 6,00;Cartão Débito
+21/10/2026;12:12;Bolo Souza Leão;1;R$ 12,00;Cartão Crédito
+21/10/2026;12:17;Capuccino;1;R$ 12,00;Pix
+21/10/2026;13:10;Espresso;1;R$ 7,00;Cartão Crédito
+21/10/2026;13:39;Croisant;1;R$ 11,00;Dinheiro
+21/10/2026;13:06;capuccino;1;R$ 12,00;Cartão Débito
+21/10/2026;13:33;Brigadeiro;1;R$ 4,00;dinheiro
+21/10/2026;14:59;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+21/10/2026;14:27;croissant;3;R$ 11,00;Pix
+21/10/2026;14:07;Capuccino;1;R$ 12,00;Pix
+21/10/2026;15:29;brigadeiro un;1;R$ 4,00;Dinheiro
+21/10/2026;15:48;CAFÉ COADO ;1;R$ 6,00;PIX
+21/10/2026;15:46;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+21/10/2026;15:07;CAFÉ COADO ;1;R$ 6,00;pix
+21/10/2026;15:57;Bolo de Rolo fatia;2;R$ 10,00;PIX
+21/10/2026;16:44;Café Coado;1;R$ 6,00;Cartao Debito
+21/10/2026;16:59;bolo souza leao;1;R$ 12,00;PIX
+21/10/2026;16:14;Croisant;1;R$ 11,00;Dinheiro
+21/10/2026;16:37;Brigadeiro unid;1;R$ 4,00;pix
+21/10/2026;17:41;Gelado rapadura;1;R$ 14,00;PIX
+21/10/2026;17:31;Bolo Souza Leão;1;R$ 12,00;dinheiro
+21/10/2026;17:31;cafe coado;1;R$ 6,00;Cartão Crédito
+21/10/2026;17:01;Cappuccino;2;R$ 12,00;dinheiro
+21/10/2026;17:04;Café coado;1;R$ 6,00;PIX
+22/10/2026;07:03;cuscuz c/ ovo;1;R$ 13,00;Cartão Débito
+22/10/2026;07:05;Café Coado;1;R$ 6,00;Cartao Debito
+
+22/10/2026;07:51;pao chapa;1;R$ 7,00;Cartão Crédito
+22/10/2026;07:22;cuscuz c/ ovo;1;R$ 13,00;Cartão Débito
+22/10/2026;07:42;PÃO NA CHAPA;1;R$ 7,00;PIX
+22/10/2026;07:25;Cuscus com ovo;1;R$ 13,00;Cartão Débito
+22/10/2026;07:42;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+22/10/2026;07:01;espresso;1;R$ 7,00;Cartao Debito
+22/10/2026;08:29;Bolo de Rolo fatia;1;R$ 10,00;Cartao Debito
+22/10/2026;08:51;Café Coado;1;R$ 6,00;Dinheiro
+22/10/2026;08:03;croissant;1;R$ 11,00;Cartao Debito
+22/10/2026;08:09;Cuscuz com ovo;1;R$ 13,00;dinheiro
+22/10/2026;08:48;Café Coado;1;R$ 6,00;Dinheiro
+22/10/2026;08:20;PÃO NA CHAPA;1;R$ 7,00;pix
+22/10/2026;08:40;Cappuccino;2;R$ 12,00;Pix
+22/10/2026;08:43;Café Coado;1;R$ 6,00;pix
+22/10/2026;08:07;cuscuz c/ ovo;1;R$ 13,00;Pix
+22/10/2026;09:35;Capuccino;1;R$ 12,00;pix
+22/10/2026;09:57;bolo de rolo;1;R$ 10,00;Dinheiro
+22/10/2026;09:08;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+22/10/2026;09:17;CAFÉ COADO ;1;R$ 6,00;Pix
+22/10/2026;10:53;PÃO NA CHAPA;2;R$ 7,00;Cartão Débito
+22/10/2026;10:47;Café coado;1;R$ 6,00;dinheiro
+22/10/2026;10:42;Pão na chapa;1;R$ 7,00;dinheiro
+22/10/2026;10:59;Cappuccino;2;R$ 12,00;Cartão Débito
+22/10/2026;10:05;cuscuz c/ ovo;1;R$ 13,00;pix
+22/10/2026;13:27;espresso;1;R$ 7,00;Pix
+22/10/2026;13:17;Bolo de Rolo fatia;1;R$ 10,00;Cartão Crédito
+22/10/2026;13:19;Bolo de rolo (fatia);1;R$ 10,00;dinheiro
+22/10/2026;13:38;Café Coado;3;R$ 6,00;Cartão Débito
+22/10/2026;13:51;CAFÉ COADO ;1;R$ 6,00;PIX
+22/10/2026;14:28;Bolo de rolo (fatia);1;R$ 10,00;Cartão Crédito
+22/10/2026;14:25;cafe gelado;2;R$ 14,00;pix
+22/10/2026;15:10;Café gelado com rapadura;2;R$ 14,00;PIX
+22/10/2026;15:56;Espresso;1;R$ 7,00;Cartao Debito
+22/10/2026;15:50;Brigadeiro;1;R$ 4,00;pix
+22/10/2026;15:52;CAFÉ COADO ;2;R$ 6,00;dinheiro
+22/10/2026;15:47;brigadeiro un;1;R$ 4,00;Pix
+22/10/2026;15:45;Bolo de Rolo fatia;2;R$ 10,00;Cartao Debito
+22/10/2026;16:16;cafe coado;1;R$ 6,00;Cartão Crédito
+22/10/2026;17:25;Brigadeiro unid;1;R$ 4,00;Pix
+22/10/2026;17:43;Brigadeiro unid;2;R$ 4,00;PIX
+22/10/2026;17:28;Bolo de rolo (fatia);2;R$ 10,00;Cartão Crédito
+22/10/2026;17:20;Cappuccino;1;R$ 12,00;Pix
+22/10/2026;18:59;Cappuccino;2;R$ 12,00;Dinheiro
+
+22/10/2026;18:16;Bolo de rolo (fatia);1;R$ 10,00;Dinheiro
+22/10/2026;18:10;Cappuccino;2;R$ 12,00;Cartão Débito
+22/10/2026;18:45;Espresso;1;R$ 7,00;Pix
+22/10/2026;18:59;bolo de rolo;1;R$ 10,00;Dinheiro
+23/10/2026;07:27;Café coado;1;R$ 6,00;Dinheiro
+23/10/2026;07:31;cafe coado;2;R$ 6,00;dinheiro
+23/10/2026;07:45;CAFÉ COADO ;1;R$ 6,00;dinheiro
+23/10/2026;07:07;Cuscuz com ovo;1;R$ 13,00;dinheiro
+23/10/2026;07:07;Capuccino;2;R$ 12,00;Cartão Débito
+23/10/2026;07:42;espresso;1;R$ 7,00;pix
+23/10/2026;08:15;Cafe Coado;2;R$ 6,00;Cartao Debito
+23/10/2026;08:56;Expresso;1;R$ 7,00;PIX
+23/10/2026;08:09;croissant;2;R$ 11,00;pix
+23/10/2026;08:45;Cafe Coado;1;R$ 6,00;Cartão Débito
+23/10/2026;08:17;Tapioca de queijo coalho;1;R$ 14,00;Cartão Crédito
+23/10/2026;08:20;Tapioca queijo coalho;2;R$ 14,00;Dinheiro
+23/10/2026;09:58;croissant;3;R$ 11,00;dinheiro
+23/10/2026;09:13;croissant;1;R$ 11,00;dinheiro
+23/10/2026;09:05;cuscuz c/ ovo;1;R$ 13,00;Dinheiro
+23/10/2026;09:49;pao chapa;1;R$ 7,00;Cartão Débito
+23/10/2026;09:25;cafe coado;1;R$ 6,00;Cartão Débito
+23/10/2026;10:08;Pao na Chapa;1;R$ 7,00;dinheiro
+23/10/2026;10:23;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+23/10/2026;11:51;Bolo de rolo (fatia);1;R$ 10,00;Dinheiro
+23/10/2026;11:40;Café gelado com rapadura;1;R$ 14,00;dinheiro
+23/10/2026;11:41;tapioca coalho;1;R$ 14,00;Dinheiro
+23/10/2026;11:31;Cartola;1;R$ 16,00;Cartão Crédito
+23/10/2026;11:58;Café gelado com rapadura;1;R$ 14,00;Dinheiro
+23/10/2026;11:08;brigadeiro un;1;R$ 4,00;pix
+23/10/2026;12:36;Cappuccino;1;R$ 12,00;Cartão Débito
+23/10/2026;12:02;cafe coado;1;R$ 6,00;Cartao Debito
+23/10/2026;12:26;Bolo de Rolo fatia;1;R$ 10,00;pix
+23/10/2026;13:07;Café coado;1;R$ 6,00;Cartão Débito
+23/10/2026;14:02;brigadeiro un;2;R$ 4,00;dinheiro
+23/10/2026;14:16;Cartola;1;R$ 16,00;dinheiro
+23/10/2026;15:51;Gelado rapadura;2;R$ 14,00;PIX
+23/10/2026;15:43;Tapioca de queijo coalho;1;R$ 14,00;Pix
+23/10/2026;15:41;Café gelado com rapadura;1;R$ 14,00;Cartão Crédito
+23/10/2026;16:52;brigadeiro un;1;R$ 4,00;Cartão Crédito
+23/10/2026;16:43;Tapioca de queijo coalho;1;R$ 14,00;Cartão Débito
+23/10/2026;16:51;Tapioca de queijo coalho;1;R$ 14,00;Cartão Crédito
+23/10/2026;17:44;Capuccino;2;R$ 12,00;dinheiro
+23/10/2026;18:27;cafe coado;2;R$ 6,00;Cartao Debito
+23/10/2026;18:47;tapioca coalho;2;R$ 14,00;pix
+24/10/2026;07:50;Espresso;3;R$ 7,00;pix
+24/10/2026;07:06;Cuscus com ovo;1;R$ 13,00;Dinheiro
+24/10/2026;07:06;capuccino;1;R$ 12,00;dinheiro
+24/10/2026;07:13;CAFÉ COADO ;1;R$ 6,00;Cartão Débito
+24/10/2026;07:18;Croisant;1;R$ 11,00;pix
+24/10/2026;07:31;Tapioca de queijo coalho;1;R$ 14,00;PIX
+24/10/2026;07:41;Tapioca queijo coalho;1;R$ 14,00;dinheiro
+24/10/2026;07:26;Cappuccino;1;R$ 12,00;PIX
+24/10/2026;07:45;CAFÉ COADO ;1;R$ 6,00;dinheiro
+24/10/2026;07:42;Espresso;1;R$ 7,00;dinheiro
+24/10/2026;08:08;cuscuz c/ ovo;1;R$ 13,00;Cartão Crédito
+24/10/2026;08:33;Cappuccino;2;R$ 12,00;Cartão Crédito
+24/10/2026;08:01;Espresso;1;R$ 7,00;Cartao Debito
+24/10/2026;08:45;pao chapa;1;R$ 7,00;Pix
+24/10/2026;08:05;espresso;2;R$ 7,00;Cartão Débito
+24/10/2026;08:48;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+24/10/2026;08:09;Café Coado;2;R$ 6,00;Cartão Crédito
+24/10/2026;08:40;croissant;1;R$ 11,00;PIX
+24/10/2026;08:56;Bolo de Rolo fatia;1;R$ 10,00;Dinheiro
+24/10/2026;08:25;cuscuz c/ ovo;1;R$ 13,00;Cartao Debito
+24/10/2026;08:55;Capuccino;1;R$ 12,00;PIX
+24/10/2026;08:57;pao chapa;2;R$ 7,00;PIX
+24/10/2026;08:44;Cuscus com ovo;2;R$ 13,00;Cartao Debito
+24/10/2026;08:56;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+24/10/2026;09:41;Cuscus com ovo;1;R$ 13,00;dinheiro
+24/10/2026;09:51;Pao na Chapa;1;R$ 7,00;PIX
+24/10/2026;09:47;Pão na chapa;1;R$ 7,00;PIX
+24/10/2026;09:34;Cappuccino;1;R$ 12,00;dinheiro
+24/10/2026;09:50;Café Coado;1;R$ 6,00;Cartao Debito
+24/10/2026;09:53;cuscuz c/ ovo;1;R$ 13,00;Cartão Crédito
+24/10/2026;09:07;Cafe Coado;1;R$ 6,00;Dinheiro
+24/10/2026;09:07;cafe coado;1;R$ 6,00;Cartão Crédito
+24/10/2026;09:00;pao chapa;1;R$ 7,00;dinheiro
+24/10/2026;09:51;Pão na chapa;3;R$ 7,00;dinheiro
+24/10/2026;10:22;Cuscuz com ovo;1;R$ 13,00;Cartão Crédito
+24/10/2026;10:52;Pão na chapa;1;R$ 7,00;PIX
+24/10/2026;10:52;Pão na chapa;1;R$ 7,00;Cartão Débito
+24/10/2026;10:05;Tapioca queijo coalho;2;R$ 14,00;Pix
+24/10/2026;10:08;cafe coado;1;R$ 6,00;Pix
+24/10/2026;11:35;Cartola;1;R$ 16,00;PIX
+24/10/2026;11:16;bolo de rolo;1;R$ 10,00;Pix
+24/10/2026;12:10;Brigadeiro unid;1;R$ 4,00;dinheiro
+24/10/2026;12:45;Capuccino;1;R$ 12,00;Pix
+24/10/2026;13:13;Croissant;1;R$ 11,00;pix
+24/10/2026;14:18;Café Coado;1;R$ 6,00;pix
+24/10/2026;14:23;Café Coado;1;R$ 6,00;PIX
+24/10/2026;14:59;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+24/10/2026;15:19;Café Coado;1;R$ 6,00;Dinheiro
+24/10/2026;15:32;Souza Leao;1;R$ 12,00;Cartão Débito
+24/10/2026;15:42;Cartola;1;R$ 16,00;dinheiro
+24/10/2026;16:17;Cartola;1;R$ 16,00;dinheiro
+24/10/2026;16:07;Cartola;1;R$ 16,00;dinheiro
+24/10/2026;16:39;Cartola;1;R$ 16,00;Pix
+24/10/2026;16:59;Espresso;1;R$ 7,00;Cartao Debito
+24/10/2026;16:17;Bolo de Rolo fatia;3;R$ 10,00;Cartão Débito
+24/10/2026;16:05;Croisant;1;R$ 11,00;Pix
+24/10/2026;17:25;brigadeiro un;1;R$ 4,00;Cartão Débito
+24/10/2026;17:59;Souza Leao;1;R$ 12,00;Cartao Debito
+24/10/2026;17:26;Café coado;1;R$ 6,00;Cartao Debito
+24/10/2026;17:06;Capuccino;1;R$ 12,00;Cartão Crédito
+24/10/2026;17:11;Souza Leao;1;R$ 12,00;PIX
+24/10/2026;17:03;espresso;1;R$ 7,00;Cartao Debito
+24/10/2026;17:06;Brigadeiro;1;R$ 4,00;Pix
+24/10/2026;18:52;cafe gelado;1;R$ 14,00;Cartão Crédito
+24/10/2026;18:15;Espresso;1;R$ 7,00;Dinheiro
+24/10/2026;18:31;Brigadeiro unid;1;R$ 4,00;dinheiro
+25/10/2026;07:52;Café Coado;1;R$ 6,00;Cartão Crédito
+25/10/2026;07:17;Tapioca queijo coalho;1;R$ 14,00;Pix
+25/10/2026;07:35;Cuscus com ovo;1;R$ 13,00;Cartão Crédito
+25/10/2026;07:43;Cafe Coado;1;R$ 6,00;Cartão Crédito
+25/10/2026;07:08;cuscuz c/ ovo;1;R$ 13,00;Cartão Crédito
+25/10/2026;07:44;cafe coado;1;R$ 6,00;Cartão Débito
+25/10/2026;07:27;Cuscuz com ovo;1;R$ 13,00;Cartão Crédito
+25/10/2026;07:54;Capuccino;1;R$ 12,00;Cartão Crédito
+25/10/2026;07:33;cuscuz c/ ovo;1;R$ 13,00;dinheiro
+25/10/2026;08:26;Cafe Coado;1;R$ 6,00;dinheiro
+25/10/2026;08:25;Cuscus com ovo;1;R$ 13,00;Dinheiro
+25/10/2026;08:14;Espresso;3;R$ 7,00;pix
+25/10/2026;08:04;bolo de rolo;1;R$ 10,00;pix
+25/10/2026;08:21;Croissant;1;R$ 11,00;Dinheiro
+25/10/2026;08:06;pao chapa;1;R$ 7,00;pix
+25/10/2026;08:01;cafe coado;1;R$ 6,00;Cartão Débito
+25/10/2026;08:30;Capuccino;1;R$ 12,00;dinheiro
+25/10/2026;08:15;Expresso;1;R$ 7,00;Cartão Débito
+25/10/2026;08:39;croissant;1;R$ 11,00;pix
+25/10/2026;08:03;Cuscus com ovo;1;R$ 13,00;Cartao Debito
+25/10/2026;08:56;croissant;1;R$ 11,00;dinheiro
+25/10/2026;08:08;Cappuccino;1;R$ 12,00;dinheiro
+25/10/2026;09:03;Café Coado;2;R$ 6,00;Cartão Crédito
+25/10/2026;09:04;Pão na chapa;1;R$ 7,00;Cartão Crédito
+25/10/2026;09:03;Café coado;1;R$ 6,00;Cartao Debito
+25/10/2026;09:06;PÃO NA CHAPA;1;R$ 7,00;Cartão Débito
+25/10/2026;09:55;Cuscuz com ovo;1;R$ 13,00;Cartao Debito
+25/10/2026;09:00;cuscuz c/ ovo;1;R$ 13,00;Cartao Debito
+25/10/2026;09:01;Tapioca queijo coalho;1;R$ 14,00;Pix
+25/10/2026;10:38;Café coado;1;R$ 6,00;Cartao Debito
+25/10/2026;10:53;Tapioca queijo coalho;1;R$ 14,00;pix
+25/10/2026;10:40;Cafe Coado;1;R$ 6,00;Pix
+25/10/2026;10:08;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+25/10/2026;11:56;brigadeiro un;1;R$ 4,00;Cartão Débito
+25/10/2026;11:30;bolo souza leao;1;R$ 12,00;dinheiro
+25/10/2026;11:32;cartola;1;R$ 16,00;Cartão Crédito
+26/10/2026;07:19;cafe coado;2;R$ 6,00;Cartão Crédito
+26/10/2026;07:23;pao chapa;1;R$ 7,00;Cartão Débito
+26/10/2026;07:51;Tapioca de queijo coalho;2;R$ 14,00;dinheiro
+26/10/2026;07:56;Tapioca de queijo coalho;1;R$ 14,00;Cartão Crédito
+26/10/2026;07:12;Croissant;1;R$ 11,00;Dinheiro
+26/10/2026;08:37;Croisant;1;R$ 11,00;Cartão Crédito
+26/10/2026;08:50;Cafe Coado;1;R$ 6,00;dinheiro
+26/10/2026;08:40;CAFÉ COADO ;1;R$ 6,00;Pix
+26/10/2026;08:31;pao chapa;1;R$ 7,00;Cartao Debito
+26/10/2026;08:30;CAFÉ COADO ;1;R$ 6,00;PIX
+26/10/2026;08:10;Espresso;1;R$ 7,00;PIX
+26/10/2026;08:33;espresso;1;R$ 7,00;dinheiro
+26/10/2026;08:23;Pao na Chapa;1;R$ 7,00;Cartão Crédito
+26/10/2026;08:31;cuscuz c/ ovo;1;R$ 13,00;Cartão Débito
+26/10/2026;08:40;pao chapa;1;R$ 7,00;Pix
+26/10/2026;08:02;Croissant;1;R$ 11,00;Cartão Débito
+26/10/2026;08:28;Café coado;2;R$ 6,00;Cartao Debito
+26/10/2026;09:05;cuscuz c/ ovo;1;R$ 13,00;Dinheiro
+26/10/2026;09:39;Cuscuz com ovo;1;R$ 13,00;Cartao Debito
+26/10/2026;09:27;pao chapa;1;R$ 7,00;Cartao Debito
+26/10/2026;09:20;PÃO NA CHAPA;2;R$ 7,00;Pix
+26/10/2026;09:28;cafe coado;1;R$ 6,00;dinheiro
+26/10/2026;09:22;Café coado;1;R$ 6,00;pix
+26/10/2026;09:32;Capuccino;1;R$ 12,00;Pix
+26/10/2026;10:07;Cafe Coado;1;R$ 6,00;Cartao Debito
+26/10/2026;10:12;Café coado;1;R$ 6,00;dinheiro
+26/10/2026;10:16;pao chapa;1;R$ 7,00;Cartão Crédito
+26/10/2026;10:43;Pão na chapa;2;R$ 7,00;PIX
+26/10/2026;11:58;Brigadeiro unid;1;R$ 4,00;dinheiro
+26/10/2026;11:48;Expresso;2;R$ 7,00;Dinheiro
+Data;Hora;Produto;Qtd;Valor Unit.;Pagamento
+26/10/2026;11:32;cartola;1;R$ 16,00;Cartão Crédito
+26/10/2026;11:55;Tapioca queijo coalho;2;R$ 14,00;PIX
+26/10/2026;11:47;cafe gelado;1;R$ 14,00;PIX
+26/10/2026;11:37;Cappuccino;1;R$ 12,00;pix
+26/10/2026;11:46;Brigadeiro;1;R$ 4,00;pix
+26/10/2026;11:05;Brigadeiro unid;1;R$ 4,00;pix
+26/10/2026;12:23;Bolo de rolo (fatia);1;R$ 10,00;Pix
+26/10/2026;12:19;CAFÉ COADO ;2;R$ 6,00;Cartão Crédito
+26/10/2026;12:51;Expresso;1;R$ 7,00;Pix
+26/10/2026;12:14;Cartola;1;R$ 16,00;Dinheiro
+26/10/2026;14:36;cafe gelado;1;R$ 14,00;pix
+26/10/2026;15:06;Espresso;1;R$ 7,00;Cartão Débito
+26/10/2026;15:52;Cartola;1;R$ 16,00;Cartao Debito
+26/10/2026;15:11;Cartola;1;R$ 16,00;PIX
+26/10/2026;15:24;capuccino;2;R$ 12,00;Cartão Débito
+26/10/2026;16:07;Espresso;1;R$ 7,00;Cartão Débito
+26/10/2026;16:47;cafe coado;1;R$ 6,00;pix
+26/10/2026;16:55;CAFÉ COADO ;2;R$ 6,00;Dinheiro
+26/10/2026;16:19;capuccino;2;R$ 12,00;Dinheiro
+26/10/2026;16:19;Capuccino;1;R$ 12,00;dinheiro
+26/10/2026;16:43;Souza Leao;1;R$ 12,00;Dinheiro
+26/10/2026;17:21;Bolo Souza Leão;1;R$ 12,00;Cartão Débito
+26/10/2026;18:50;Café gelado com rapadura;2;R$ 14,00;Cartão Débito
+26/10/2026;18:51;Café gelado com rapadura;1;R$ 14,00;Cartão Crédito
+26/10/2026;18:11;Croisant;1;R$ 11,00;Cartão Crédito
+26/10/2026;18:29;Espresso;1;R$ 7,00;Dinheiro
+26/10/2026;18:44;Gelado rapadura;1;R$ 14,00;PIX
+27/10/2026;07:07;Cuscus com ovo;2;R$ 13,00;Cartao Debito
+27/10/2026;07:20;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+27/10/2026;07:20;cafe coado;1;R$ 6,00;Cartao Debito
+27/10/2026;07:56;cuscuz c/ ovo;1;R$ 13,00;Cartao Debito
+27/10/2026;07:38;CAFÉ COADO ;1;R$ 6,00;dinheiro
+27/10/2026;07:45;PÃO NA CHAPA;3;R$ 7,00;Cartão Débito
+27/10/2026;07:54;Cuscuz com ovo;3;R$ 13,00;Dinheiro
+27/10/2026;07:06;Cuscus com ovo;1;R$ 13,00;Cartão Débito
+27/10/2026;08:44;Cuscus com ovo;3;R$ 13,00;Cartao Debito
+27/10/2026;08:40;tapioca coalho;1;R$ 14,00;Cartão Débito
+27/10/2026;08:01;Tapioca queijo coalho;1;R$ 14,00;Cartão Crédito
+27/10/2026;08:24;Cuscus com ovo;1;R$ 13,00;Cartão Débito
+27/10/2026;08:14;cuscuz c/ ovo;3;R$ 13,00;Cartão Débito
+27/10/2026;08:48;Pao na Chapa;1;R$ 7,00;PIX
+27/10/2026;08:08;cafe coado;1;R$ 6,00;Cartão Crédito
+27/10/2026;08:09;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+27/10/2026;08:15;PÃO NA CHAPA;1;R$ 7,00;pix
+27/10/2026;09:48;Cafe Coado;1;R$ 6,00;Cartao Debito
+27/10/2026;09:01;tapioca coalho;1;R$ 14,00;Cartão Débito
+27/10/2026;09:21;Café Coado;1;R$ 6,00;PIX
+27/10/2026;09:58;Café coado;1;R$ 6,00;PIX
+27/10/2026;09:51;croissant;3;R$ 11,00;PIX
+27/10/2026;09:38;Tapioca queijo coalho;1;R$ 14,00;pix
+27/10/2026;09:11;Capuccino;1;R$ 12,00;Cartão Débito
+27/10/2026;09:55;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+27/10/2026;10:15;Capuccino;2;R$ 12,00;PIX
+27/10/2026;10:29;Pão na chapa;1;R$ 7,00;Pix
+27/10/2026;11:15;Capuccino;1;R$ 12,00;dinheiro
+27/10/2026;11:40;Café gelado com rapadura;1;R$ 14,00;Pix
+27/10/2026;11:30;capuccino;2;R$ 12,00;PIX
+27/10/2026;12:25;Cafe Coado;3;R$ 6,00;pix
+27/10/2026;12:54;Café Coado;1;R$ 6,00;Cartão Débito
+27/10/2026;13:35;Gelado rapadura;1;R$ 14,00;Cartao Debito
+27/10/2026;13:32;capuccino;1;R$ 12,00;dinheiro
+27/10/2026;14:41;Gelado rapadura;1;R$ 14,00;pix
+27/10/2026;14:56;Tapioca queijo coalho;1;R$ 14,00;Dinheiro
+27/10/2026;14:24;Cafe Coado;2;R$ 6,00;Dinheiro
+27/10/2026;15:59;cartola;1;R$ 16,00;pix
+27/10/2026;15:30;Bolo de Rolo fatia;1;R$ 10,00;PIX
+27/10/2026;15:40;CAFÉ COADO ;2;R$ 6,00;Cartao Debito
+27/10/2026;16:29;Cartola;1;R$ 16,00;Cartao Debito
+27/10/2026;16:15;Expresso;1;R$ 7,00;Cartão Débito
+27/10/2026;16:05;Capuccino;1;R$ 12,00;PIX
+27/10/2026;16:05;Cartola;3;R$ 16,00;Dinheiro
+27/10/2026;16:27;Bolo de Rolo fatia;1;R$ 10,00;dinheiro
+27/10/2026;17:00;Brigadeiro unid;1;R$ 4,00;PIX
+27/10/2026;17:00;Tapioca de queijo coalho;2;R$ 14,00;Cartão Crédito
+27/10/2026;17:26;Cafe Coado;1;R$ 6,00;pix
+27/10/2026;17:46;bolo de rolo;1;R$ 10,00;pix
+27/10/2026;18:36;Bolo de Rolo fatia;1;R$ 10,00;Cartão Crédito
+27/10/2026;18:03;Brigadeiro unid;1;R$ 4,00;Dinheiro
+28/10/2026;07:10;cuscuz c/ ovo;2;R$ 13,00;Cartao Debito
+28/10/2026;07:30;capuccino;2;R$ 12,00;dinheiro
+28/10/2026;07:44;Cafe Coado;2;R$ 6,00;Cartão Crédito
+28/10/2026;07:45;Café Coado;1;R$ 6,00;Cartao Debito
+28/10/2026;07:20;CAFÉ COADO ;2;R$ 6,00;Cartão Crédito
+28/10/2026;07:57;Tapioca queijo coalho;1;R$ 14,00;pix
+28/10/2026;07:59;Tapioca queijo coalho;1;R$ 14,00;pix
+28/10/2026;08:05;Cuscus com ovo;1;R$ 13,00;pix
+28/10/2026;08:38;Croisant;1;R$ 11,00;pix
+28/10/2026;08:12;pao chapa;1;R$ 7,00;Dinheiro
+28/10/2026;08:23;Tapioca queijo coalho;1;R$ 14,00;Pix
+28/10/2026;08:03;Cuscus com ovo;1;R$ 13,00;PIX
+28/10/2026;08:23;Bolo de Rolo fatia;1;R$ 10,00;PIX
+28/10/2026;08:08;espresso;2;R$ 7,00;pix
+28/10/2026;09:34;CAFÉ COADO ;1;R$ 6,00;dinheiro
+28/10/2026;09:52;capuccino;1;R$ 12,00;Cartão Crédito
+28/10/2026;09:31;croissant;2;R$ 11,00;Dinheiro
+28/10/2026;09:51;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+28/10/2026;09:20;Cappuccino;1;R$ 12,00;Cartão Débito
+28/10/2026;09:07;PÃO NA CHAPA;3;R$ 7,00;pix
+28/10/2026;10:03;cafe coado;3;R$ 6,00;PIX
+28/10/2026;10:59;tapioca coalho;2;R$ 14,00;Pix
+28/10/2026;10:03;Espresso;1;R$ 7,00;Cartao Debito
+28/10/2026;11:54;Tapioca queijo coalho;1;R$ 14,00;Cartao Debito
+28/10/2026;11:33;Brigadeiro unid;1;R$ 4,00;Pix
+28/10/2026;11:59;Brigadeiro;1;R$ 4,00;PIX
+28/10/2026;12:41;Expresso;1;R$ 7,00;Pix
+28/10/2026;12:44;capuccino;1;R$ 12,00;Pix
+28/10/2026;14:46;brigadeiro un;1;R$ 4,00;Pix
+28/10/2026;14:50;croissant;1;R$ 11,00;Dinheiro
+28/10/2026;14:27;tapioca coalho;1;R$ 14,00;Cartao Debito
+28/10/2026;14:03;cartola;1;R$ 16,00;Cartão Débito
+28/10/2026;15:32;capuccino;1;R$ 12,00;dinheiro
+28/10/2026;15:02;Cartola;1;R$ 16,00;dinheiro
+28/10/2026;15:00;cartola;1;R$ 16,00;Cartão Crédito
+28/10/2026;15:14;cartola;2;R$ 16,00;dinheiro
+28/10/2026;16:19;Tapioca queijo coalho;1;R$ 14,00;Pix
+28/10/2026;16:34;Brigadeiro unid;2;R$ 4,00;Cartão Crédito
+28/10/2026;16:33;Brigadeiro unid;1;R$ 4,00;dinheiro
+28/10/2026;16:07;Capuccino;1;R$ 12,00;PIX
+28/10/2026;16:11;Cappuccino;1;R$ 12,00;dinheiro
+28/10/2026;17:36;Café gelado com rapadura;1;R$ 14,00;Pix
+28/10/2026;17:35;capuccino;1;R$ 12,00;Pix
+28/10/2026;17:05;capuccino;1;R$ 12,00;Cartão Crédito
+28/10/2026;17:23;Tapioca queijo coalho;1;R$ 14,00;PIX
+28/10/2026;17:33;Café coado;1;R$ 6,00;dinheiro
+28/10/2026;17:22;cafe gelado;2;R$ 14,00;Pix
+28/10/2026;18:15;cafe coado;2;R$ 6,00;PIX
+28/10/2026;18:54;Cafe Coado;1;R$ 6,00;Pix
+29/10/2026;07:31;Tapioca queijo coalho;1;R$ 14,00;Cartao Debito
+29/10/2026;07:27;Expresso;1;R$ 7,00;PIX
+29/10/2026;07:08;Tapioca de queijo coalho;2;R$ 14,00;dinheiro
+29/10/2026;07:43;PÃO NA CHAPA;1;R$ 7,00;Cartao Debito
+29/10/2026;07:25;Cappuccino;1;R$ 12,00;Cartao Debito
+29/10/2026;07:53;Cafe Coado;1;R$ 6,00;Pix
+29/10/2026;07:44;Espresso;1;R$ 7,00;Cartão Débito
+29/10/2026;07:47;Cuscuz com ovo;1;R$ 13,00;PIX
+29/10/2026;07:02;Croisant;1;R$ 11,00;pix
+29/10/2026;08:43;Cuscuz com ovo;3;R$ 13,00;Cartao Debito
+29/10/2026;08:57;croissant;1;R$ 11,00;dinheiro
+29/10/2026;08:53;Cafe Coado;1;R$ 6,00;Pix
+29/10/2026;08:03;cafe coado;1;R$ 6,00;pix
+29/10/2026;08:23;Pão na chapa;1;R$ 7,00;dinheiro
+29/10/2026;08:49;Cafe Coado;1;R$ 6,00;PIX
+29/10/2026;08:47;CAFÉ COADO ;1;R$ 6,00;Pix
+29/10/2026;08:59;Tapioca de queijo coalho;1;R$ 14,00;Cartao Debito
+29/10/2026;08:31;PÃO NA CHAPA;1;R$ 7,00;Pix
+29/10/2026;09:06;Pao na Chapa;1;R$ 7,00;Cartão Crédito
+29/10/2026;09:11;Café coado;2;R$ 6,00;Cartão Débito
+29/10/2026;09:27;pao chapa;1;R$ 7,00;Pix
+29/10/2026;09:58;Cappuccino;1;R$ 12,00;pix
+29/10/2026;09:42;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+29/10/2026;09:23;Cafe Coado;1;R$ 6,00;Pix
+29/10/2026;09:11;pao chapa;1;R$ 7,00;Dinheiro
+29/10/2026;09:28;Cuscuz com ovo;1;R$ 13,00;Cartão Débito
+29/10/2026;09:08;Tapioca queijo coalho;1;R$ 14,00;pix
+29/10/2026;10:22;PÃO NA CHAPA;1;R$ 7,00;PIX
+29/10/2026;10:07;capuccino;1;R$ 12,00;PIX
+29/10/2026;10:30;CAFÉ COADO ;1;R$ 6,00;PIX
+29/10/2026;10:07;Croissant;3;R$ 11,00;Cartão Crédito
+29/10/2026;11:25;brigadeiro un;1;R$ 4,00;Cartão Débito
+29/10/2026;11:22;brigadeiro un;1;R$ 4,00;dinheiro
+29/10/2026;12:15;Bolo de rolo (fatia);1;R$ 10,00;pix
+29/10/2026;13:15;capuccino;1;R$ 12,00;Pix
+29/10/2026;13:50;Bolo de rolo (fatia);1;R$ 10,00;pix
+29/10/2026;14:32;Brigadeiro;1;R$ 4,00;dinheiro
+29/10/2026;14:14;Bolo Souza Leão;1;R$ 12,00;pix
+29/10/2026;15:33;croissant;1;R$ 11,00;Cartão Crédito
+29/10/2026;15:14;cafe gelado;1;R$ 14,00;Dinheiro
+29/10/2026;15:19;bolo de rolo;1;R$ 10,00;PIX
+29/10/2026;15:22;Cafe Coado;1;R$ 6,00;PIX
+29/10/2026;15:57;Brigadeiro unid;1;R$ 4,00;Cartão Crédito
+29/10/2026;16:37;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+29/10/2026;16:47;Croissant;1;R$ 11,00;dinheiro
+29/10/2026;17:52;tapioca coalho;2;R$ 14,00;Dinheiro
+29/10/2026;17:59;capuccino;1;R$ 12,00;pix
+29/10/2026;17:39;Café coado;2;R$ 6,00;Cartao Debito
+29/10/2026;17:45;Café Coado;1;R$ 6,00;Dinheiro
+29/10/2026;17:54;Capuccino;2;R$ 12,00;Pix
+29/10/2026;18:45;espresso;1;R$ 7,00;pix
+29/10/2026;18:30;Café Coado;1;R$ 6,00;Cartão Crédito
+29/10/2026;18:32;bolo de rolo;2;R$ 10,00;dinheiro
+30/10/2026;07:36;Expresso;1;R$ 7,00;Cartao Debito
+30/10/2026;07:41;Pao na Chapa;1;R$ 7,00;Cartao Debito
+30/10/2026;07:56;Cafe Coado;1;R$ 6,00;dinheiro
+30/10/2026;07:38;Café coado;1;R$ 6,00;pix
+30/10/2026;07:27;Café Coado;1;R$ 6,00;dinheiro
+30/10/2026;07:46;Café coado;1;R$ 6,00;Pix
+30/10/2026;08:06;Expresso;1;R$ 7,00;Cartao Debito
+30/10/2026;08:52;pao chapa;1;R$ 7,00;Cartão Crédito
+30/10/2026;08:59;CAFÉ COADO ;2;R$ 6,00;Cartão Débito
+30/10/2026;08:05;CAFÉ COADO ;1;R$ 6,00;Cartao Debito
+30/10/2026;08:38;CAFÉ COADO ;2;R$ 6,00;Dinheiro
+30/10/2026;08:21;Café coado;1;R$ 6,00;Dinheiro
+30/10/2026;08:08;Cappuccino;1;R$ 12,00;pix
+30/10/2026;08:28;Pao na Chapa;1;R$ 7,00;Cartão Débito
+30/10/2026;08:30;Expresso;1;R$ 7,00;Cartão Crédito
+30/10/2026;08:01;Cafe Coado;1;R$ 6,00;pix
+30/10/2026;09:14;Pao na Chapa;1;R$ 7,00;Cartão Débito
+30/10/2026;09:09;CAFÉ COADO ;1;R$ 6,00;pix
+30/10/2026;09:58;PÃO NA CHAPA;1;R$ 7,00;Cartão Crédito
+30/10/2026;09:56;Capuccino;1;R$ 12,00;Cartao Debito
+30/10/2026;09:06;Cafe Coado;1;R$ 6,00;Cartão Crédito
+30/10/2026;09:59;Cuscus com ovo;1;R$ 13,00;Pix
+30/10/2026;09:02;croissant;1;R$ 11,00;Dinheiro
+
+30/10/2026;09:33;Cuscuz com ovo;1;R$ 13,00;Cartao Debito
+30/10/2026;09:19;Cafe Coado;1;R$ 6,00;Cartao Debito
+30/10/2026;10:58;PÃO NA CHAPA;1;R$ 7,00;Cartão Débito
+30/10/2026;10:24;Tapioca queijo coalho;1;R$ 14,00;dinheiro
+30/10/2026;10:27;Expresso;1;R$ 7,00;Dinheiro
+30/10/2026;10:05;Croissant;1;R$ 11,00;pix
+30/10/2026;10:49;Pao na Chapa;1;R$ 7,00;PIX
+30/10/2026;11:15;Brigadeiro;1;R$ 4,00;Cartao Debito
+30/10/2026;12:45;capuccino;1;R$ 12,00;Cartao Debito
+30/10/2026;13:18;Croissant;2;R$ 11,00;Dinheiro
+30/10/2026;13:35;Bolo de Rolo fatia;2;R$ 10,00;PIX
+
+30/10/2026;13:47;Capuccino;1;R$ 12,00;Cartao Debito
+30/10/2026;14:30;cafe coado;1;R$ 6,00;Cartão Débito
+30/10/2026;14:01;Croisant;2;R$ 11,00;Cartao Debito
+30/10/2026;15:53;Capuccino;1;R$ 12,00;Cartão Débito
+30/10/2026;15:11;Brigadeiro unid;1;R$ 4,00;Cartão Crédito
+30/10/2026;15:33;Bolo de rolo (fatia);1;R$ 10,00;Dinheiro
+30/10/2026;15:41;Brigadeiro unid;1;R$ 4,00;PIX
+30/10/2026;15:09;Cartola;1;R$ 16,00;Cartao Debito
+30/10/2026;15:00;Brigadeiro;1;R$ 4,00;Pix
+30/10/2026;16:17;Capuccino;2;R$ 12,00;Cartão Débito
+30/10/2026;16:04;tapioca coalho;1;R$ 14,00;pix
+30/10/2026;16:20;Brigadeiro;1;R$ 4,00;Cartao Debito
+30/10/2026;17:23;Café gelado com rapadura;1;R$ 14,00;Cartao Debito
+30/10/2026;17:06;cartola;1;R$ 16,00;dinheiro
+30/10/2026;17:13;Cappuccino;1;R$ 12,00;Pix
+30/10/2026;17:19;bolo souza leao;1;R$ 12,00;dinheiro
+30/10/2026;18:36;Cafe Coado;1;R$ 6,00;Dinheiro
+30/10/2026;18:50;bolo souza leao;1;R$ 12,00;Cartão Débito
+31/10/2026;07:02;Capuccino;3;R$ 12,00;Dinheiro
+31/10/2026;07:35;espresso;1;R$ 7,00;Cartão Crédito
+31/10/2026;07:18;Cafe Coado;2;R$ 6,00;Dinheiro
+31/10/2026;07:54;pao chapa;1;R$ 7,00;Cartão Crédito
+31/10/2026;07:29;Café Coado;1;R$ 6,00;Dinheiro
+31/10/2026;07:04;PÃO NA CHAPA;1;R$ 7,00;Cartão Débito
+31/10/2026;08:07;CAFÉ COADO ;1;R$ 6,00;Dinheiro
+31/10/2026;08:13;Croisant;1;R$ 11,00;Cartao Debito
+31/10/2026;08:38;PÃO NA CHAPA;1;R$ 7,00;dinheiro
+31/10/2026;08:51;espresso;1;R$ 7,00;Cartão Débito
+31/10/2026;08:30;Pão na chapa;1;R$ 7,00;dinheiro
+31/10/2026;08:17;Croissant;1;R$ 11,00;Dinheiro
+31/10/2026;08:26;Capuccino;1;R$ 12,00;Dinheiro
+31/10/2026;08:16;cuscuz c/ ovo;1;R$ 13,00;dinheiro
+31/10/2026;08:57;Café Coado;1;R$ 6,00;Dinheiro
+31/10/2026;08:48;Cappuccino;1;R$ 12,00;Cartao Debito
+31/10/2026;08:26;Pao na Chapa;1;R$ 7,00;dinheiro
+31/10/2026;08:22;cafe coado;1;R$ 6,00;Cartão Débito
+31/10/2026;09:57;Expresso;1;R$ 7,00;Cartão Crédito
+31/10/2026;09:42;Cuscuz com ovo;1;R$ 13,00;Pix
+31/10/2026;09:00;Cappuccino;1;R$ 12,00;Pix
+31/10/2026;09:09;Café coado;1;R$ 6,00;PIX
+31/10/2026;09:50;Pao na Chapa;1;R$ 7,00;dinheiro
+31/10/2026;09:33;Bolo de rolo (fatia);1;R$ 10,00;Dinheiro
+31/10/2026;09:53;Tapioca de queijo coalho;3;R$ 14,00;Cartão Débito
+31/10/2026;09:13;Bolo de rolo (fatia);1;R$ 10,00;Pix
+31/10/2026;09:24;Cuscuz com ovo;1;R$ 13,00;PIX
+31/10/2026;09:00;Bolo de Rolo fatia;1;R$ 10,00;pix
+31/10/2026;10:19;PÃO NA CHAPA;1;R$ 7,00;Dinheiro
+31/10/2026;10:55;Cappuccino;1;R$ 12,00;PIX
+31/10/2026;10:29;pao chapa;2;R$ 7,00;Pix
+31/10/2026;11:43;Café gelado com rapadura;1;R$ 14,00;Cartao Debito
+31/10/2026;11:06;Espresso;2;R$ 7,00;Pix
+31/10/2026;11:06;tapioca coalho;2;R$ 14,00;Cartão Crédito
+31/10/2026;11:59;cafe coado;1;R$ 6,00;pix
+31/10/2026;11:40;Cartola;1;R$ 16,00;Cartão Crédito
+31/10/2026;12:13;cartola;2;R$ 16,00;PIX
+31/10/2026;12:24;Cappuccino;1;R$ 12,00;Dinheiro
+31/10/2026;12:07;Café Coado;2;R$ 6,00;dinheiro
+31/10/2026;12:29;Café gelado com rapadura;1;R$ 14,00;Cartão Débito
+31/10/2026;12:45;bolo de rolo;2;R$ 10,00;Cartao Debito
+31/10/2026;12:17;brigadeiro un;1;R$ 4,00;pix
+31/10/2026;13:21;Brigadeiro unid;1;R$ 4,00;Cartão Débito
+31/10/2026;14:12;capuccino;3;R$ 12,00;PIX
+31/10/2026;14:46;Expresso;1;R$ 7,00;pix
+
+31/10/2026;15:07;brigadeiro un;1;R$ 4,00;dinheiro
+31/10/2026;15:53;cartola;1;R$ 16,00;Dinheiro
+31/10/2026;15:00;Cafe Coado;1;R$ 6,00;Cartão Crédito
+31/10/2026;15:05;Souza Leao;1;R$ 12,00;Dinheiro
+31/10/2026;15:40;Café coado;1;R$ 6,00;Dinheiro
+31/10/2026;15:34;Expresso;1;R$ 7,00;pix
+31/10/2026;16:42;Brigadeiro;1;R$ 4,00;Pix
+31/10/2026;16:59;croissant;1;R$ 11,00;Cartao Debito
+31/10/2026;16:18;bolo souza leao;1;R$ 12,00;Dinheiro
+31/10/2026;16:53;bolo de rolo;1;R$ 10,00;PIX
+31/10/2026;16:50;Cappuccino;1;R$ 12,00;PIX
+31/10/2026;16:40;cafe coado;1;R$ 6,00;dinheiro
+31/10/2026;16:24;cafe coado;1;R$ 6,00;Cartao Debito
+31/10/2026;16:28;Croissant;1;R$ 11,00;PIX
+31/10/2026;17:07;cartola;2;R$ 16,00;Cartao Debito
+31/10/2026;17:30;Tapioca queijo coalho;3;R$ 14,00;dinheiro
+31/10/2026;17:00;Tapioca de queijo coalho;1;R$ 14,00;dinheiro
+31/10/2026;17:34;Café Coado;1;R$ 6,00;Cartão Débito
+31/10/2026;17:05;Gelado rapadura;1;R$ 14,00;Pix
+31/10/2026;17:27;Bolo de rolo (fatia);2;R$ 10,00;Cartão Crédito
+31/10/2026;18:54;Capuccino;1;R$ 12,00;Dinheiro
+31/10/2026;18:25;croissant;1;R$ 11,00;Cartão Crédito

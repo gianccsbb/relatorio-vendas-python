@@ -1,0 +1,804 @@
+sale_id,date,time,item,quantity,unit_price,payment
+50001,2026-10-01,07:47:00,Café coado,1,6.0,pix
+50002,2026-10-01,07:34:00,Cafe Coado,1,6,credito
+50003,2026-10-01,07:28:00,Tapioca de queijo coalho,1,14,pix
+50004,2026-10-01,07:27:00,Expresso,1,7,PIX
+50005,2026-10-01,08:06:00,Pão na chapa,1,7,credito
+50006,2026-10-01,08:54:00,espresso,3,7,credito
+50007,2026-10-01,08:17:00,Café Coado,1,6.0,dinheiro
+50008,2026-10-01,09:44:00,Café coado,2,6.0,PIX
+50009,2026-10-01,09:53:00,Cuscuz com ovo,1,13.0,dinheiro
+50010,2026-10-01,09:17:00,CAFÉ COADO ,1,6,debito
+50011,2026-10-01,09:15:00,PÃO NA CHAPA,1,7,pix
+50012,2026-10-01,10:08:00,pao chapa,3,7,debito
+50013,2026-10-01,10:04:00,Espresso,1,7,PIX
+50014,2026-10-01,13:15:00,Tapioca de queijo coalho,2,14.0,debito
+50015,2026-10-01,14:05:00,Cafe Coado,2,6.0,debito
+50016,2026-10-01,14:04:00,Cafe Coado,1,6,dinheiro
+50017,2026-10-01,15:55:00,Souza Leao,1,12.0,dinheiro
+50018,2026-10-01,15:12:00,Bolo de Rolo fatia,1,10.0,credito
+50019,2026-10-01,15:33:00,Cartola,1,16.0,PIX
+50020,2026-10-01,16:32:00,Café coado,1,6.0,debito
+50021,2026-10-01,16:56:00,bolo de rolo,1,10,PIX
+50022,2026-10-01,16:50:00,bolo souza leao,1,12,PIX
+50023,2026-10-01,16:27:00,Café Coado,1,6.0,PIX
+50024,2026-10-01,16:12:00,Croissant,1,11,debito
+50025,2026-10-01,17:10:00,espresso,2,7,dinheiro
+50026,2026-10-01,17:55:00,Bolo de rolo (fatia),1,10,PIX
+50027,2026-10-01,18:59:00,Café Coado,1,6.0,pix
+50028,2026-10-01,18:27:00,Brigadeiro,1,4,pix
+50029,2026-10-02,07:51:00,Capuccino,3,12,dinheiro
+50030,2026-10-02,08:59:00,Tapioca de queijo coalho,1,14,debito
+50031,2026-10-02,08:43:00,pao chapa,1,7,PIX
+50032,2026-10-02,08:01:00,Bolo de rolo (fatia),1,10,pix
+50033,2026-10-02,09:27:00,tapioca coalho,1,14,pix
+50034,2026-10-02,09:07:00,Cuscus com ovo,1,13.0,pix
+50034,2026-10-02,09:07:00,Cuscus com ovo,1,13.0,pix
+50035,2026-10-02,09:19:00,Tapioca de queijo coalho,1,14,credito
+50036,2026-10-02,10:47:00,tapioca coalho,1,14,PIX
+50037,2026-10-02,10:19:00,Pao na Chapa,2,7,pix
+50038,2026-10-02,10:32:00,Café Coado,1,6.0,debito
+50039,2026-10-02,11:15:00,Cafe Coado,2,6,PIX
+50040,2026-10-02,11:30:00,Cappuccino,1,12.0,credito
+50041,2026-10-02,12:12:00,bolo de rolo,1,10,PIX
+50042,2026-10-02,13:44:00,Gelado rapadura,1,14,dinheiro
+50043,2026-10-02,13:49:00,Cafe Coado,1,6.0,credito
+50044,2026-10-02,13:14:00,Croisant,1,11.0,dinheiro
+50045,2026-10-02,14:51:00,croissant,1,11.0,debito
+50046,2026-10-02,15:46:00,Espresso,1,7,pix
+50047,2026-10-02,16:53:00,Bolo de rolo (fatia),1,10.0,debito
+50048,2026-10-02,16:37:00,bolo de rolo,2,10.0,PIX
+50049,2026-10-02,17:48:00,Cafe Coado,1,6,PIX
+50050,2026-10-02,17:34:00,Bolo de Rolo fatia,1,10,dinheiro
+50051,2026-10-02,17:31:00,brigadeiro un,2,4,pix
+50052,2026-10-02,18:27:00,cartola,1,16,dinheiro
+50053,2026-10-02,18:03:00,CAFÉ COADO ,1,6,credito
+50054,2026-10-03,07:25:00,CAFÉ COADO ,1,6.0,PIX
+50055,2026-10-03,08:06:00,Cuscuz com ovo,1,13.0,dinheiro
+50056,2026-10-03,08:34:00,CAFÉ COADO ,1,6,debito
+50057,2026-10-03,08:30:00,Capuccino,1,12.0,debito
+50058,2026-10-03,08:04:00,espresso,1,7,credito
+50059,2026-10-03,08:09:00,Cuscuz com ovo,1,13,PIX
+50060,2026-10-03,09:38:00,Cuscus com ovo,1,13.0,PIX
+50061,2026-10-03,09:19:00,pao chapa,2,7,pix
+50062,2026-10-03,09:10:00,Café coado,1,6,dinheiro
+50063,2026-10-03,09:10:00,Cafe Coado,1,6.0,pix
+50064,2026-10-03,09:38:00,Cafe Coado,1,6.0,PIX
+50065,2026-10-03,09:16:00,Café coado,1,6,credito
+50066,2026-10-03,10:07:00,Espresso,1,7.0,PIX
+50067,2026-10-03,10:38:00,capuccino,1,12,debito
+50068,2026-10-03,11:16:00,Cafe Coado,1,6,pix
+50069,2026-10-03,12:26:00,cartola,1,16.0,PIX
+50070,2026-10-03,12:48:00,Brigadeiro unid,1,4.0,credito
+50071,2026-10-03,12:08:00,Cafe Coado,1,6.0,debito
+50072,2026-10-03,13:10:00,Bolo Souza Leão,1,12.0,dinheiro
+50073,2026-10-03,13:26:00,Gelado rapadura,1,14.0,pix
+50074,2026-10-03,14:12:00,Bolo de Rolo fatia,1,10,dinheiro
+50075,2026-10-03,15:52:00,espresso,1,7.0,debito
+50076,2026-10-03,15:31:00,bolo souza leao,3,12,dinheiro
+50077,2026-10-03,15:34:00,Café gelado com rapadura,1,14.0,credito
+50078,2026-10-03,15:26:00,Gelado rapadura,2,14.0,pix
+50079,2026-10-03,15:45:00,Café Coado,1,6.0,pix
+50080,2026-10-03,15:42:00,Expresso,1,7.0,pix
+50081,2026-10-03,16:32:00,Bolo de Rolo fatia,1,10.0,PIX
+50082,2026-10-03,16:06:00,tapioca coalho,1,14.0,pix
+50083,2026-10-03,17:40:00,Bolo de rolo (fatia),1,10,debito
+50084,2026-10-03,17:02:00,Cartola,2,16.0,PIX
+50085,2026-10-03,17:22:00,Café gelado com rapadura,1,14.0,debito
+50086,2026-10-03,17:11:00,Bolo de Rolo fatia,1,10.0,dinheiro
+50087,2026-10-03,17:55:00,Capuccino,1,12,dinheiro
+50088,2026-10-03,18:31:00,Gelado rapadura,1,14.0,dinheiro
+50089,2026-10-03,18:57:00,Cafe Coado,2,6.0,pix
+50090,2026-10-04,07:41:00,PÃO NA CHAPA,2,7.0,dinheiro
+50091,2026-10-04,07:12:00,pao chapa,1,7.0,pix
+50091-E,2026-10-04,07:17:00,pao chapa,-1,7.0,pix
+50092,2026-10-04,07:41:00,Pao na Chapa,1,7,credito
+50093,2026-10-04,07:13:00,Espresso,1,7.0,dinheiro
+50094,2026-10-04,07:07:00,Cuscus com ovo,1,13.0,pix
+50095,2026-10-04,08:37:00,Pao na Chapa,1,7,pix
+50096,2026-10-04,08:49:00,Espresso,1,7,dinheiro
+50097,2026-10-04,08:08:00,Pão na chapa,1,7.0,debito
+50098,2026-10-04,08:38:00,Cuscuz com ovo,1,13,dinheiro
+50099,2026-10-04,08:49:00,Capuccino,1,12,credito
+50100,2026-10-04,08:27:00,Cuscuz com ovo,2,13.0,credito
+50101,2026-10-04,09:35:00,Cuscuz com ovo,1,13.0,PIX
+50102,2026-10-04,09:26:00,Cuscuz com ovo,1,13,credito
+50103,2026-10-04,09:48:00,Pão na chapa,1,7,debito
+50104,2026-10-04,10:07:00,Pão na chapa,1,7,PIX
+50105,2026-10-04,10:51:00,Espresso,1,7.0,PIX
+50106,2026-10-04,10:49:00,Pao na Chapa,1,7.0,credito
+50107,2026-10-04,10:11:00,Cappuccino,1,12,dinheiro
+50108,2026-10-04,11:25:00,Croisant,1,11,pix
+50109,2026-10-05,07:38:00,Café Coado,1,6,dinheiro
+50110,2026-10-05,08:37:00,Tapioca queijo coalho,1,14.0,credito
+50111,2026-10-05,08:38:00,Bolo de rolo (fatia),1,10,debito
+50112,2026-10-05,08:02:00,Croisant,1,11.0,pix
+50113,2026-10-05,08:41:00,pao chapa,2,7,PIX
+50114,2026-10-05,08:02:00,Café coado,1,6.0,PIX
+50115,2026-10-05,08:28:00,cafe coado,1,6,debito
+50116,2026-10-05,09:23:00,Cuscus com ovo,1,13,PIX
+50117,2026-10-05,09:42:00,Café coado,1,6,PIX
+50118,2026-10-05,10:35:00,Tapioca de queijo coalho,1,14.0,credito
+50119,2026-10-05,11:13:00,Café Coado,1,6,debito
+50120,2026-10-05,11:32:00,Gelado rapadura,1,14,PIX
+50121,2026-10-05,13:57:00,Cartola,1,16.0,debito
+50122,2026-10-05,13:28:00,Gelado rapadura,1,14,dinheiro
+50123,2026-10-05,15:55:00,Cappuccino,1,12.0,debito
+50124,2026-10-05,16:07:00,Brigadeiro,1,4,credito
+50125,2026-10-05,17:01:00,Souza Leao,2,12.0,pix
+50126,2026-10-05,17:40:00,Cafe Coado,1,6,PIX
+50127,2026-10-05,18:36:00,Bolo de rolo (fatia),1,10.0,debito
+50128,2026-10-05,18:36:00,cafe coado,1,6,credito
+50129,2026-10-05,18:05:00,bolo de rolo,1,10,pix
+50130,2026-10-06,07:25:00,Cafe Coado,1,6.0,debito
+50131,2026-10-06,08:47:00,cafe coado,1,6,debito
+50132,2026-10-06,08:58:00,Café coado,1,6,dinheiro
+50133,2026-10-06,08:39:00,Tapioca queijo coalho,1,14,credito
+50134,2026-10-06,08:04:00,CAFÉ COADO ,1,6,debito
+50135,2026-10-06,08:45:00,pao chapa,1,7.0,dinheiro
+50136,2026-10-06,08:50:00,Croisant,1,11.0,debito
+50137,2026-10-06,09:31:00,espresso,1,7,pix
+50138,2026-10-06,09:08:00,Pao na Chapa,3,7.0,pix
+50139,2026-10-06,09:19:00,Cuscuz com ovo,1,13,credito
+50140,2026-10-06,10:53:00,pao chapa,2,7.0,PIX
+50140,2026-10-06,10:53:00,pao chapa,2,7.0,PIX
+50141,2026-10-06,10:14:00,CAFÉ COADO ,2,6.0,PIX
+50142,2026-10-06,11:57:00,cafe gelado,2,14,pix
+50143,2026-10-06,11:12:00,cafe gelado,1,14,credito
+50144,2026-10-06,11:05:00,cartola,1,16,dinheiro
+50145,2026-10-06,14:43:00,bolo de rolo,2,10,credito
+50146,2026-10-06,14:30:00,Café coado,1,6,debito
+50147,2026-10-06,14:09:00,Bolo de Rolo fatia,1,10,PIX
+50148,2026-10-06,15:59:00,Espresso,2,7,dinheiro
+50149,2026-10-06,15:48:00,Bolo Souza Leão,1,12.0,PIX
+50150,2026-10-06,15:29:00,capuccino,3,12,credito
+50151,2026-10-06,16:31:00,Gelado rapadura,1,14,credito
+50152,2026-10-06,16:54:00,Bolo de rolo (fatia),1,10,debito
+50153,2026-10-06,16:23:00,brigadeiro un,1,4.0,PIX
+50154,2026-10-06,16:06:00,Bolo Souza Leão,1,12,credito
+50155,2026-10-06,17:08:00,capuccino,2,12.0,dinheiro
+50156,2026-10-06,17:10:00,cafe gelado,1,14.0,pix
+50157,2026-10-06,18:45:00,Brigadeiro unid,1,4,dinheiro
+50158,2026-10-07,07:17:00,Cafe Coado,1,6.0,debito
+50159,2026-10-07,07:37:00,Café coado,1,6,credito
+50160,2026-10-07,07:57:00,cafe coado,1,6.0,debito
+50161,2026-10-07,07:41:00,Bolo de rolo (fatia),1,10,pix
+50162,2026-10-07,07:41:00,cafe coado,1,6,debito
+50163,2026-10-07,08:58:00,Tapioca queijo coalho,2,14.0,dinheiro
+50164,2026-10-07,08:53:00,cafe coado,2,6,pix
+50165,2026-10-07,08:59:00,pao chapa,1,7.0,dinheiro
+50166,2026-10-07,08:21:00,Cuscuz com ovo,2,13,dinheiro
+50167,2026-10-07,08:12:00,Cappuccino,1,12,PIX
+50168,2026-10-07,12:45:00,Café coado,1,6.0,PIX
+50169,2026-10-07,12:10:00,Capuccino,1,12.0,debito
+50170,2026-10-07,14:32:00,Brigadeiro unid,1,4.0,dinheiro
+50171,2026-10-07,14:35:00,bolo de rolo,1,10,credito
+50172,2026-10-07,15:46:00,Bolo de rolo (fatia),2,10,credito
+50173,2026-10-07,16:58:00,Café gelado com rapadura,2,14.0,pix
+50174,2026-10-07,16:42:00,Café gelado com rapadura,1,14,PIX
+50175,2026-10-07,16:55:00,croissant,1,11,PIX
+50176,2026-10-07,16:14:00,Café gelado com rapadura,1,14.0,PIX
+50177,2026-10-07,16:19:00,Croissant,1,11.0,PIX
+50178,2026-10-07,17:01:00,Brigadeiro,2,4,PIX
+50179,2026-10-07,18:14:00,Cappuccino,3,12,credito
+50180,2026-10-07,18:20:00,Brigadeiro,1,4,debito
+50181,2026-10-08,07:13:00,espresso,1,7.0,PIX
+50182,2026-10-08,07:36:00,PÃO NA CHAPA,1,7.0,PIX
+50183,2026-10-08,07:01:00,Capuccino,1,12,credito
+50184,2026-10-08,07:43:00,Café Coado,1,6.0,pix
+50185,2026-10-08,07:31:00,Pão na chapa,1,7,debito
+50186,2026-10-08,08:04:00,Café coado,1,6,debito
+50187,2026-10-08,08:32:00,Tapioca queijo coalho,1,14.0,PIX
+50188,2026-10-08,08:34:00,tapioca coalho,1,14.0,PIX
+50189,2026-10-08,08:11:00,Pao na Chapa,2,7,pix
+50190,2026-10-08,09:29:00,CAFÉ COADO ,2,6.0,credito
+50191,2026-10-08,09:24:00,cafe coado,1,6.0,PIX
+50192,2026-10-08,09:54:00,tapioca coalho,1,14.0,pix
+50193,2026-10-08,09:57:00,bolo de rolo,3,10.0,pix
+50194,2026-10-08,10:11:00,Cuscus com ovo,1,13,pix
+50195,2026-10-08,10:13:00,Croisant,1,11,debito
+50196,2026-10-08,10:19:00,Espresso,2,7,PIX
+50197,2026-10-08,10:34:00,Capuccino,1,12.0,debito
+50198,2026-10-08,12:22:00,tapioca coalho,1,14,credito
+50199,2026-10-08,13:11:00,bolo souza leao,1,12.0,PIX
+50200,2026-10-08,13:05:00,Cartola,1,16.0,pix
+50201,2026-10-08,13:15:00,Brigadeiro unid,1,4.0,PIX
+50202,2026-10-08,14:28:00,Café Coado,1,6.0,PIX
+50203,2026-10-08,15:04:00,bolo de rolo,1,10.0,pix
+50204,2026-10-08,15:46:00,Gelado rapadura,2,14,PIX
+50205,2026-10-08,15:00:00,bolo de rolo,1,10.0,credito
+50206,2026-10-08,15:39:00,espresso,1,7.0,dinheiro
+50207,2026-10-08,16:52:00,Cappuccino,1,12,debito
+50208,2026-10-08,16:59:00,brigadeiro un,1,4,pix
+50209,2026-10-08,17:59:00,Souza Leao,1,12,debito
+50210,2026-10-08,17:34:00,espresso,1,7.0,dinheiro
+50211,2026-10-08,18:06:00,cafe gelado,1,14.0,debito
+50212,2026-10-08,18:32:00,Café coado,1,6,pix
+50213,2026-10-09,07:45:00,Pão na chapa,1,7,pix
+50214,2026-10-09,07:05:00,capuccino,1,12,credito
+50215,2026-10-09,07:14:00,cuscuz c/ ovo,1,13.0,pix
+50216,2026-10-09,08:55:00,tapioca coalho,1,14.0,credito
+50217,2026-10-09,08:55:00,Cappuccino,1,12.0,pix
+50218,2026-10-09,08:15:00,bolo de rolo,1,10,credito
+50219,2026-10-09,09:52:00,Cuscus com ovo,2,13.0,pix
+50220,2026-10-09,09:55:00,Capuccino,1,12,PIX
+50221,2026-10-09,09:43:00,Capuccino,1,12,debito
+50222,2026-10-09,11:04:00,Cartola,1,16.0,credito
+50223,2026-10-09,12:00:00,Croissant,1,11.0,credito
+50224,2026-10-09,12:19:00,Espresso,2,7.0,credito
+50225,2026-10-09,13:05:00,Café coado,1,6,pix
+50226,2026-10-09,15:24:00,Café gelado com rapadura,1,14.0,pix
+50227,2026-10-09,15:08:00,Brigadeiro unid,1,4,pix
+50228,2026-10-09,15:04:00,Cartola,1,16,pix
+50229,2026-10-09,16:24:00,Brigadeiro,1,4,credito
+50230,2026-10-09,16:50:00,cafe gelado,1,14.0,pix
+50231,2026-10-09,16:46:00,capuccino,1,12.0,dinheiro
+50232,2026-10-09,17:59:00,Tapioca queijo coalho,3,14,PIX
+50233,2026-10-09,18:49:00,Gelado rapadura,1,14.0,pix
+50233,2026-10-09,18:49:00,Gelado rapadura,1,14.0,pix
+50234,2026-10-09,18:05:00,Bolo de rolo (fatia),1,10.0,pix
+50235,2026-10-10,07:34:00,Expresso,1,7,debito
+50236,2026-10-10,07:56:00,Pão na chapa,2,7,dinheiro
+50237,2026-10-10,08:06:00,Cafe Coado,1,6,credito
+50238,2026-10-10,08:22:00,PÃO NA CHAPA,1,7.0,PIX
+50239,2026-10-10,08:19:00,Bolo de Rolo fatia,1,10.0,debito
+50240,2026-10-10,08:16:00,Cuscus com ovo,1,13,pix
+50241,2026-10-10,09:51:00,Café coado,1,6,PIX
+50242,2026-10-10,10:27:00,Café coado,2,6,pix
+50243,2026-10-10,10:01:00,Expresso,1,7,debito
+50244,2026-10-10,10:18:00,Cuscus com ovo,1,13,debito
+50245,2026-10-10,10:51:00,cuscuz c/ ovo,1,13,credito
+50246,2026-10-10,11:11:00,Bolo de Rolo fatia,1,10,PIX
+50247,2026-10-10,12:54:00,Café gelado com rapadura,2,14.0,pix
+50248,2026-10-10,13:20:00,Capuccino,1,12.0,dinheiro
+50249,2026-10-10,14:09:00,Café gelado com rapadura,1,14.0,pix
+50250,2026-10-10,14:19:00,Croissant,1,11.0,debito
+50251,2026-10-10,15:03:00,Cappuccino,1,12,dinheiro
+50252,2026-10-10,15:39:00,Bolo de rolo (fatia),1,10,dinheiro
+50253,2026-10-10,16:19:00,Café gelado com rapadura,1,14,debito
+50254,2026-10-10,16:31:00,Expresso,1,7,dinheiro
+50255,2026-10-10,17:25:00,espresso,2,7,dinheiro
+50256,2026-10-10,17:58:00,cafe coado,1,6.0,PIX
+50257,2026-10-10,18:53:00,Café gelado com rapadura,1,14,credito
+50257-E,2026-10-10,18:58:00,Café gelado com rapadura,-1,14,credito
+50258,2026-10-11,07:58:00,Café coado,2,6.0,debito
+50259,2026-10-11,07:00:00,Cuscus com ovo,2,13.0,PIX
+50260,2026-10-11,07:06:00,Bolo de rolo (fatia),1,10.0,PIX
+50261,2026-10-11,07:56:00,capuccino,2,12,pix
+50262,2026-10-11,07:31:00,Pao na Chapa,1,7.0,PIX
+50263,2026-10-11,07:11:00,cuscuz c/ ovo,1,13.0,pix
+50264,2026-10-11,07:38:00,CAFÉ COADO ,1,6.0,debito
+50265,2026-10-11,07:25:00,tapioca coalho,1,14.0,dinheiro
+50266,2026-10-11,08:58:00,Cafe Coado,1,6.0,credito
+50267,2026-10-11,08:21:00,Café coado,1,6.0,dinheiro
+50268,2026-10-11,08:28:00,Cuscuz com ovo,1,13.0,credito
+50269,2026-10-11,08:47:00,Café coado,2,6,credito
+50270,2026-10-11,08:10:00,espresso,1,7.0,PIX
+50271,2026-10-11,08:56:00,Cuscuz com ovo,1,13.0,debito
+50272,2026-10-11,08:23:00,cafe coado,1,6,debito
+50273,2026-10-11,08:59:00,Pão na chapa,1,7,pix
+50274,2026-10-11,09:23:00,Cafe Coado,1,6.0,dinheiro
+50275,2026-10-11,09:14:00,Espresso,1,7.0,debito
+50276,2026-10-11,09:17:00,tapioca coalho,1,14,PIX
+50277,2026-10-11,09:00:00,espresso,1,7.0,debito
+50278,2026-10-11,10:22:00,Pão na chapa,1,7.0,credito
+50279,2026-10-11,10:25:00,Tapioca queijo coalho,2,14.0,pix
+50280,2026-10-12,07:04:00,Cuscus com ovo,2,13.0,credito
+50281,2026-10-12,07:19:00,Cappuccino,1,12,credito
+50282,2026-10-12,08:48:00,CAFÉ COADO ,1,6,PIX
+50283,2026-10-12,08:46:00,Cafe Coado,1,6.0,debito
+50283,2026-10-12,08:46:00,Cafe Coado,1,6.0,debito
+50284,2026-10-12,08:01:00,Expresso,1,7,debito
+50285,2026-10-12,09:52:00,cuscuz c/ ovo,1,13.0,pix
+50286,2026-10-12,09:58:00,Expresso,1,7,debito
+50287,2026-10-12,09:16:00,CAFÉ COADO ,2,6.0,credito
+50288,2026-10-12,10:38:00,Espresso,1,7.0,debito
+50289,2026-10-12,10:07:00,Cappuccino,1,12.0,PIX
+50290,2026-10-12,10:13:00,Cafe Coado,1,6,pix
+50291,2026-10-12,10:19:00,Tapioca queijo coalho,1,14.0,pix
+50292,2026-10-12,11:18:00,Bolo de Rolo fatia,1,10,pix
+50293,2026-10-12,12:12:00,Café coado,1,6,credito
+50294,2026-10-12,12:53:00,Bolo Souza Leão,1,12.0,credito
+50295,2026-10-12,12:35:00,Bolo de rolo (fatia),1,10.0,PIX
+50296,2026-10-12,12:59:00,bolo de rolo,1,10.0,debito
+50297,2026-10-12,12:00:00,Bolo de Rolo fatia,1,10,pix
+50298,2026-10-12,14:18:00,cartola,1,16,pix
+50299,2026-10-12,15:54:00,Bolo de rolo (fatia),1,10.0,dinheiro
+50300,2026-10-12,15:54:00,brigadeiro un,1,4,pix
+50301,2026-10-12,16:51:00,Gelado rapadura,2,14.0,dinheiro
+50302,2026-10-12,16:10:00,Bolo de Rolo fatia,2,10.0,PIX
+50303,2026-10-12,16:58:00,Tapioca de queijo coalho,1,14,PIX
+50304,2026-10-12,17:46:00,Bolo de rolo (fatia),1,10,dinheiro
+50305,2026-10-12,18:44:00,croissant,1,11,debito
+50306,2026-10-12,18:42:00,cartola,1,16,PIX
+50307,2026-10-13,07:59:00,Cuscuz com ovo,1,13.0,debito
+50308,2026-10-13,07:56:00,Cuscuz com ovo,1,13,pix
+50309,2026-10-13,08:58:00,Pao na Chapa,3,7,dinheiro
+50310,2026-10-13,08:40:00,Tapioca queijo coalho,2,14,debito
+50311,2026-10-13,08:11:00,Café coado,1,6,credito
+50312,2026-10-13,08:20:00,pao chapa,1,7.0,credito
+50313,2026-10-13,08:42:00,Pao na Chapa,1,7.0,pix
+50314,2026-10-13,09:03:00,Café Coado,1,6,debito
+50315,2026-10-13,09:43:00,Expresso,3,7,pix
+50316,2026-10-13,09:06:00,Cafe Coado,2,6.0,debito
+50317,2026-10-13,10:50:00,pao chapa,1,7.0,dinheiro
+50318,2026-10-13,11:34:00,Cartola,1,16,debito
+50319,2026-10-13,11:46:00,brigadeiro un,1,4,PIX
+50320,2026-10-13,11:11:00,tapioca coalho,1,14.0,dinheiro
+50321,2026-10-13,11:02:00,Brigadeiro,1,4.0,PIX
+50322,2026-10-13,12:38:00,Café coado,2,6,credito
+50323,2026-10-13,13:31:00,Souza Leao,1,12.0,pix
+50324,2026-10-13,13:04:00,Brigadeiro unid,1,4.0,dinheiro
+50325,2026-10-13,13:34:00,Bolo de rolo (fatia),1,10,pix
+50326,2026-10-13,14:52:00,Bolo de rolo (fatia),3,10.0,PIX
+50327,2026-10-13,14:15:00,Cartola,2,16,pix
+50328,2026-10-13,15:52:00,Gelado rapadura,2,14.0,debito
+50329,2026-10-13,15:05:00,Cartola,1,16,dinheiro
+50330,2026-10-13,15:49:00,Espresso,1,7.0,PIX
+50331,2026-10-13,15:04:00,Bolo de Rolo fatia,1,10,PIX
+50332,2026-10-13,16:06:00,Croisant,1,11.0,debito
+50333,2026-10-13,16:56:00,Capuccino,2,12.0,dinheiro
+50334,2026-10-13,16:41:00,tapioca coalho,1,14.0,credito
+50335,2026-10-13,16:43:00,Brigadeiro unid,1,4,PIX
+50336,2026-10-13,16:21:00,Cappuccino,1,12.0,pix
+50337,2026-10-13,17:37:00,Souza Leao,1,12.0,debito
+50338,2026-10-13,17:25:00,Brigadeiro unid,1,4.0,credito
+50339,2026-10-14,07:08:00,Tapioca de queijo coalho,1,14,PIX
+50340,2026-10-14,07:36:00,Pão na chapa,1,7.0,credito
+50341,2026-10-14,07:04:00,Café coado,1,6,pix
+50342,2026-10-14,07:16:00,Capuccino,1,12.0,debito
+50343,2026-10-14,08:38:00,PÃO NA CHAPA,1,7,PIX
+50344,2026-10-14,08:41:00,Café Coado,1,6.0,dinheiro
+50345,2026-10-14,08:30:00,tapioca coalho,1,14,dinheiro
+50346,2026-10-14,09:25:00,croissant,1,11.0,PIX
+50347,2026-10-14,09:28:00,Cafe Coado,1,6.0,debito
+50348,2026-10-14,10:01:00,pao chapa,1,7,pix
+50349,2026-10-14,10:39:00,Café coado,1,6,debito
+50350,2026-10-14,11:05:00,bolo de rolo,1,10,credito
+50351,2026-10-14,12:38:00,bolo de rolo,1,10.0,dinheiro
+50352,2026-10-14,13:44:00,Bolo de Rolo fatia,2,10,pix
+50353,2026-10-14,13:51:00,bolo de rolo,1,10.0,debito
+50354,2026-10-14,13:22:00,bolo de rolo,1,10,debito
+50355,2026-10-14,15:16:00,Souza Leao,1,12,debito
+50356,2026-10-14,15:06:00,brigadeiro un,1,4,debito
+50357,2026-10-14,15:36:00,Gelado rapadura,1,14.0,credito
+50358,2026-10-14,16:42:00,Brigadeiro,2,4.0,debito
+50359,2026-10-14,16:51:00,Bolo de Rolo fatia,1,10.0,credito
+50360,2026-10-14,17:40:00,cartola,1,16,credito
+50361,2026-10-14,18:54:00,Bolo de rolo (fatia),1,10.0,credito
+50362,2026-10-15,07:53:00,cafe coado,1,6,PIX
+50363,2026-10-15,07:57:00,Pao na Chapa,3,7.0,credito
+50364,2026-10-15,07:17:00,Bolo de Rolo fatia,2,10,dinheiro
+50365,2026-10-15,07:08:00,PÃO NA CHAPA,1,7.0,dinheiro
+50366,2026-10-15,08:22:00,Croissant,1,11.0,dinheiro
+50367,2026-10-15,08:11:00,Pao na Chapa,1,7,debito
+50368,2026-10-15,08:17:00,Café coado,1,6.0,pix
+50369,2026-10-15,08:23:00,PÃO NA CHAPA,1,7.0,debito
+50370,2026-10-15,08:54:00,tapioca coalho,1,14,debito
+50371,2026-10-15,09:16:00,Pao na Chapa,1,7,credito
+50372,2026-10-15,10:25:00,Cuscuz com ovo,1,13,credito
+50373,2026-10-15,10:38:00,cafe coado,2,6,debito
+50374,2026-10-15,12:56:00,Bolo de Rolo fatia,1,10,dinheiro
+50375,2026-10-15,13:21:00,Cappuccino,2,12.0,credito
+50376,2026-10-15,14:41:00,Gelado rapadura,1,14.0,credito
+50377,2026-10-15,15:08:00,Cappuccino,2,12.0,debito
+50378,2026-10-15,15:47:00,Brigadeiro,1,4.0,PIX
+50379,2026-10-15,15:10:00,Cartola,1,16.0,pix
+50380,2026-10-15,15:01:00,Croisant,1,11.0,credito
+50381,2026-10-15,16:05:00,CAFÉ COADO ,1,6.0,dinheiro
+50382,2026-10-15,16:28:00,capuccino,1,12.0,dinheiro
+50383,2026-10-15,16:30:00,Croissant,1,11,credito
+50384,2026-10-15,17:33:00,cartola,1,16.0,credito
+50385,2026-10-15,17:26:00,CAFÉ COADO ,1,6.0,credito
+50386,2026-10-15,18:27:00,bolo de rolo,1,10,debito
+50387,2026-10-16,07:43:00,Café Coado,1,6.0,dinheiro
+50388,2026-10-16,08:51:00,Espresso,1,7.0,pix
+50389,2026-10-16,08:45:00,cafe coado,1,6.0,debito
+50390,2026-10-16,08:34:00,Pão na chapa,1,7.0,credito
+50390-E,2026-10-16,08:39:00,Pão na chapa,-1,7.0,credito
+50391,2026-10-16,08:55:00,Capuccino,1,12,PIX
+50392,2026-10-16,08:09:00,Cuscus com ovo,1,13.0,pix
+50393,2026-10-16,08:56:00,PÃO NA CHAPA,1,7,PIX
+50394,2026-10-16,09:18:00,Expresso,1,7.0,debito
+50395,2026-10-16,09:12:00,Cafe Coado,1,6.0,credito
+50396,2026-10-16,10:00:00,Café Coado,1,6,PIX
+50397,2026-10-16,11:02:00,brigadeiro un,1,4,pix
+50398,2026-10-16,12:24:00,cafe coado,1,6.0,pix
+50399,2026-10-16,13:28:00,Cappuccino,3,12,PIX
+50400,2026-10-16,14:23:00,Tapioca de queijo coalho,1,14.0,PIX
+50401,2026-10-16,16:36:00,Espresso,1,7.0,PIX
+50402,2026-10-16,16:16:00,Bolo de rolo (fatia),1,10,PIX
+50403,2026-10-16,16:36:00,Cappuccino,1,12.0,dinheiro
+50404,2026-10-16,16:46:00,cafe gelado,2,14,debito
+50405,2026-10-16,17:05:00,brigadeiro un,1,4,credito
+50406,2026-10-16,17:21:00,Brigadeiro,2,4,PIX
+50407,2026-10-16,17:49:00,espresso,1,7,dinheiro
+50408,2026-10-16,18:03:00,Bolo de rolo (fatia),1,10.0,dinheiro
+50409,2026-10-17,07:45:00,Cafe Coado,1,6.0,dinheiro
+50410,2026-10-17,07:59:00,Tapioca de queijo coalho,1,14,debito
+50411,2026-10-17,07:43:00,Tapioca de queijo coalho,1,14.0,pix
+50412,2026-10-17,07:17:00,Bolo de Rolo fatia,3,10.0,PIX
+50413,2026-10-17,08:08:00,Tapioca de queijo coalho,1,14.0,dinheiro
+50414,2026-10-17,08:04:00,Cuscus com ovo,1,13,credito
+50415,2026-10-17,08:07:00,Cuscuz com ovo,2,13.0,credito
+50416,2026-10-17,08:09:00,cafe coado,2,6.0,PIX
+50417,2026-10-17,08:19:00,bolo de rolo,3,10,pix
+50418,2026-10-17,09:39:00,Cafe Coado,1,6,dinheiro
+50419,2026-10-17,09:49:00,Café coado,1,6,credito
+50420,2026-10-17,09:17:00,Expresso,1,7.0,pix
+50421,2026-10-17,09:28:00,Café coado,2,6,debito
+50422,2026-10-17,10:47:00,pao chapa,1,7,debito
+50423,2026-10-17,10:56:00,PÃO NA CHAPA,2,7.0,debito
+50424,2026-10-17,12:34:00,bolo souza leao,2,12,PIX
+50425,2026-10-17,13:10:00,Tapioca de queijo coalho,1,14,pix
+50426,2026-10-17,15:56:00,Souza Leao,1,12.0,pix
+50427,2026-10-17,16:58:00,Croissant,1,11,PIX
+50428,2026-10-17,16:11:00,Cafe Coado,1,6.0,PIX
+50429,2026-10-17,16:50:00,Cartola,1,16.0,credito
+50430,2026-10-17,16:47:00,Bolo Souza Leão,3,12.0,dinheiro
+50431,2026-10-17,16:17:00,Café Coado,1,6,credito
+50432,2026-10-17,17:03:00,Capuccino,1,12.0,PIX
+50433,2026-10-17,17:39:00,Cappuccino,1,12,credito
+50434,2026-10-17,18:13:00,Brigadeiro,1,4.0,PIX
+50435,2026-10-17,18:26:00,Brigadeiro,3,4.0,PIX
+50436,2026-10-18,07:34:00,tapioca coalho,1,14.0,pix
+50437,2026-10-18,07:48:00,CAFÉ COADO ,2,6.0,PIX
+50438,2026-10-18,07:45:00,pao chapa,1,7.0,PIX
+50439,2026-10-18,07:16:00,cafe coado,2,6.0,dinheiro
+50440,2026-10-18,08:01:00,Cappuccino,1,12,debito
+50441,2026-10-18,08:25:00,Espresso,1,7,dinheiro
+50442,2026-10-18,08:44:00,cafe coado,1,6,PIX
+50443,2026-10-18,08:27:00,Cuscuz com ovo,1,13,dinheiro
+50444,2026-10-18,08:29:00,Pão na chapa,1,7,pix
+50445,2026-10-18,09:05:00,PÃO NA CHAPA,1,7.0,debito
+50446,2026-10-18,09:28:00,Espresso,1,7,PIX
+50447,2026-10-18,09:59:00,Tapioca de queijo coalho,2,14.0,debito
+50448,2026-10-18,09:22:00,Pao na Chapa,3,7.0,pix
+50449,2026-10-18,09:39:00,Bolo de rolo (fatia),1,10,credito
+50450,2026-10-18,10:40:00,PÃO NA CHAPA,1,7.0,debito
+50451,2026-10-18,10:24:00,Pao na Chapa,1,7.0,debito
+50452,2026-10-18,11:36:00,Cappuccino,1,12.0,PIX
+50453,2026-10-19,07:16:00,Pao na Chapa,2,7.0,pix
+50454,2026-10-19,07:11:00,Espresso,1,7.0,debito
+50455,2026-10-19,07:38:00,bolo de rolo,3,10,PIX
+50456,2026-10-19,07:24:00,Espresso,1,7,dinheiro
+50457,2026-10-19,07:40:00,Cafe Coado,1,6.0,PIX
+50458,2026-10-19,08:34:00,Expresso,1,7.0,debito
+50459,2026-10-19,08:24:00,Café Coado,1,6.0,debito
+50460,2026-10-19,08:33:00,Pão na chapa,1,7,credito
+50461,2026-10-19,09:00:00,PÃO NA CHAPA,1,7,debito
+50462,2026-10-19,09:53:00,Croisant,1,11.0,pix
+50463,2026-10-19,09:54:00,Tapioca de queijo coalho,1,14,debito
+50464,2026-10-19,10:51:00,espresso,1,7.0,pix
+50465,2026-10-19,11:21:00,Brigadeiro,1,4.0,pix
+50466,2026-10-19,12:04:00,brigadeiro un,1,4,pix
+50467,2026-10-19,12:06:00,cafe gelado,1,14.0,PIX
+50468,2026-10-19,12:13:00,Capuccino,1,12,credito
+50469,2026-10-19,14:54:00,Bolo de Rolo fatia,1,10.0,credito
+50470,2026-10-19,14:04:00,Brigadeiro,2,4.0,credito
+50471,2026-10-19,15:44:00,bolo souza leao,1,12,pix
+50472,2026-10-19,15:36:00,Brigadeiro,1,4.0,PIX
+50473,2026-10-19,15:40:00,cartola,1,16.0,pix
+50474,2026-10-19,16:35:00,Café gelado com rapadura,1,14,dinheiro
+50475,2026-10-19,16:12:00,Croisant,1,11,credito
+50476,2026-10-19,16:02:00,Bolo de rolo (fatia),3,10.0,pix
+50477,2026-10-19,17:02:00,bolo souza leao,2,12,PIX
+50478,2026-10-20,07:32:00,cafe coado,1,6,debito
+50479,2026-10-20,08:59:00,Capuccino,1,12,PIX
+50480,2026-10-20,08:03:00,cafe coado,1,6.0,debito
+50481,2026-10-20,08:21:00,Pão na chapa,1,7.0,debito
+50482,2026-10-20,08:10:00,CAFÉ COADO ,1,6,dinheiro
+50483,2026-10-20,08:39:00,Espresso,1,7,pix
+50484,2026-10-20,09:37:00,cafe coado,1,6.0,debito
+50485,2026-10-20,09:30:00,bolo de rolo,1,10.0,dinheiro
+50486,2026-10-20,10:13:00,cafe coado,1,6,PIX
+50487,2026-10-20,10:54:00,pao chapa,1,7.0,dinheiro
+50487,2026-10-20,10:54:00,pao chapa,1,7.0,dinheiro
+50488,2026-10-20,10:29:00,cuscuz c/ ovo,1,13,dinheiro
+50489,2026-10-20,11:00:00,Cartola,1,16.0,pix
+50490,2026-10-20,11:57:00,Croisant,1,11,credito
+50491,2026-10-20,11:58:00,brigadeiro un,1,4.0,PIX
+50492,2026-10-20,12:45:00,Souza Leao,1,12.0,credito
+50493,2026-10-20,14:37:00,Bolo de Rolo fatia,2,10.0,pix
+50494,2026-10-20,15:28:00,brigadeiro un,2,4.0,PIX
+50495,2026-10-20,15:05:00,capuccino,2,12.0,dinheiro
+50496,2026-10-20,16:26:00,espresso,1,7.0,dinheiro
+50497,2026-10-20,16:47:00,Bolo de rolo (fatia),1,10,dinheiro
+50498,2026-10-20,16:53:00,Cafe Coado,2,6.0,credito
+50499,2026-10-20,16:26:00,Espresso,1,7,dinheiro
+50500,2026-10-20,17:18:00,croissant,1,11.0,debito
+50501,2026-10-20,17:44:00,Tapioca queijo coalho,2,14,debito
+50502,2026-10-20,18:22:00,Café coado,1,6.0,PIX
+50503,2026-10-21,07:18:00,Café coado,2,6,pix
+50504,2026-10-21,07:52:00,cuscuz c/ ovo,1,13,dinheiro
+50505,2026-10-21,07:01:00,Cuscuz com ovo,1,13,dinheiro
+50506,2026-10-21,08:04:00,Café coado,1,6.0,pix
+50507,2026-10-21,09:52:00,Cuscuz com ovo,2,13.0,pix
+50508,2026-10-21,09:09:00,cuscuz c/ ovo,1,13,PIX
+50509,2026-10-21,09:09:00,Croissant,1,11,PIX
+50510,2026-10-21,09:50:00,PÃO NA CHAPA,2,7.0,pix
+50511,2026-10-21,09:53:00,Cappuccino,1,12.0,PIX
+50512,2026-10-21,09:45:00,croissant,2,11.0,PIX
+50513,2026-10-21,11:54:00,Brigadeiro,1,4.0,dinheiro
+50514,2026-10-21,12:16:00,cafe coado,1,6,pix
+50515,2026-10-21,12:58:00,brigadeiro un,1,4.0,debito
+50516,2026-10-21,13:18:00,capuccino,1,12,pix
+50517,2026-10-21,14:45:00,Cappuccino,1,12,pix
+50518,2026-10-21,14:11:00,Bolo de Rolo fatia,1,10,debito
+50519,2026-10-21,15:28:00,Café gelado com rapadura,3,14,dinheiro
+50520,2026-10-21,15:43:00,Croissant,1,11.0,PIX
+50521,2026-10-21,15:43:00,Gelado rapadura,1,14,debito
+50522,2026-10-21,16:23:00,espresso,1,7,dinheiro
+50523,2026-10-21,16:38:00,Tapioca queijo coalho,1,14.0,pix
+50524,2026-10-21,16:17:00,Croissant,1,11.0,credito
+50525,2026-10-21,17:42:00,espresso,1,7,credito
+50526,2026-10-21,17:29:00,Bolo de Rolo fatia,1,10.0,debito
+50527,2026-10-21,17:11:00,Bolo de Rolo fatia,1,10.0,debito
+50528,2026-10-21,18:06:00,Cappuccino,1,12.0,dinheiro
+50529,2026-10-21,18:33:00,Brigadeiro unid,1,4.0,dinheiro
+50530,2026-10-22,07:51:00,PÃO NA CHAPA,1,7.0,credito
+50531,2026-10-22,07:37:00,tapioca coalho,1,14,credito
+50532,2026-10-22,07:19:00,Expresso,1,7,credito
+50533,2026-10-22,07:11:00,Tapioca de queijo coalho,1,14.0,pix
+50534,2026-10-22,08:27:00,cuscuz c/ ovo,1,13.0,debito
+50535,2026-10-22,08:52:00,Café coado,1,6.0,pix
+50536,2026-10-22,09:51:00,cafe coado,1,6,dinheiro
+50537,2026-10-22,09:54:00,tapioca coalho,1,14,dinheiro
+50538,2026-10-22,09:50:00,Cafe Coado,1,6,PIX
+50539,2026-10-22,09:05:00,Cafe Coado,2,6,pix
+50540,2026-10-22,09:04:00,Pão na chapa,1,7.0,debito
+50541,2026-10-22,10:05:00,pao chapa,1,7.0,debito
+50542,2026-10-22,11:28:00,Cappuccino,3,12,dinheiro
+50543,2026-10-22,12:44:00,cafe coado,1,6,credito
+50544,2026-10-22,13:23:00,croissant,2,11,pix
+50545,2026-10-22,14:44:00,cafe gelado,1,14.0,dinheiro
+50546,2026-10-22,14:07:00,Café gelado com rapadura,2,14,pix
+50547,2026-10-22,16:20:00,brigadeiro un,1,4,PIX
+50548,2026-10-22,16:03:00,bolo de rolo,1,10.0,dinheiro
+50549,2026-10-22,17:33:00,Café Coado,1,6.0,debito
+50550,2026-10-22,17:41:00,Brigadeiro unid,1,4.0,pix
+50551,2026-10-22,17:24:00,Gelado rapadura,1,14,dinheiro
+50552,2026-10-22,18:12:00,Espresso,3,7,dinheiro
+50553,2026-10-22,18:03:00,Café gelado com rapadura,2,14.0,credito
+50554,2026-10-23,07:18:00,PÃO NA CHAPA,1,7.0,PIX
+50555,2026-10-23,07:32:00,Café coado,1,6.0,debito
+50556,2026-10-23,08:36:00,Bolo de Rolo fatia,1,10.0,dinheiro
+50557,2026-10-23,08:43:00,Pao na Chapa,1,7.0,pix
+50558,2026-10-23,08:59:00,CAFÉ COADO ,1,6.0,pix
+50559,2026-10-23,08:02:00,Cuscus com ovo,1,13.0,debito
+50560,2026-10-23,09:18:00,Capuccino,2,12.0,debito
+50561,2026-10-23,09:04:00,Pão na chapa,1,7,pix
+50562,2026-10-23,09:54:00,capuccino,1,12,PIX
+50563,2026-10-23,10:58:00,Expresso,1,7,credito
+50564,2026-10-23,10:38:00,pao chapa,1,7,PIX
+50565,2026-10-23,11:05:00,Bolo de rolo (fatia),1,10,pix
+50566,2026-10-23,12:36:00,Café coado,1,6,debito
+50567,2026-10-23,14:19:00,CAFÉ COADO ,2,6,credito
+50568,2026-10-23,15:47:00,capuccino,1,12.0,PIX
+50569,2026-10-23,16:38:00,croissant,3,11,dinheiro
+50570,2026-10-23,16:00:00,cafe gelado,1,14,credito
+50571,2026-10-23,17:15:00,Bolo de Rolo fatia,1,10.0,PIX
+50572,2026-10-23,17:50:00,bolo de rolo,1,10.0,debito
+50573,2026-10-23,17:49:00,Bolo de rolo (fatia),1,10,debito
+50574,2026-10-23,17:01:00,bolo de rolo,1,10.0,debito
+50575,2026-10-23,18:00:00,croissant,1,11,credito
+50576,2026-10-23,18:32:00,CAFÉ COADO ,1,6.0,credito
+50577,2026-10-24,07:07:00,PÃO NA CHAPA,2,7,debito
+50578,2026-10-24,07:53:00,Espresso,1,7.0,dinheiro
+50579,2026-10-24,07:32:00,espresso,1,7.0,credito
+50580,2026-10-24,08:26:00,espresso,1,7,pix
+50581,2026-10-24,08:49:00,Pão na chapa,1,7,PIX
+50582,2026-10-24,08:58:00,PÃO NA CHAPA,1,7.0,pix
+50583,2026-10-24,09:12:00,Espresso,1,7,PIX
+50584,2026-10-24,09:34:00,capuccino,1,12,PIX
+50585,2026-10-24,09:35:00,cafe coado,1,6.0,credito
+50586,2026-10-24,09:40:00,Pão na chapa,1,7.0,credito
+50587,2026-10-24,09:32:00,Expresso,1,7.0,debito
+50588,2026-10-24,09:23:00,cafe coado,1,6.0,debito
+50589,2026-10-24,10:42:00,Tapioca de queijo coalho,2,14.0,dinheiro
+50590,2026-10-24,10:45:00,tapioca coalho,1,14.0,dinheiro
+50591,2026-10-24,10:09:00,Expresso,1,7.0,debito
+50592,2026-10-24,11:23:00,Bolo de Rolo fatia,1,10,debito
+50593,2026-10-24,13:32:00,Bolo de rolo (fatia),3,10.0,credito
+50594,2026-10-24,13:10:00,bolo de rolo,1,10,dinheiro
+50595,2026-10-24,14:26:00,Expresso,1,7.0,credito
+50596,2026-10-24,14:09:00,Bolo de rolo (fatia),1,10,debito
+50597,2026-10-24,14:00:00,Capuccino,1,12,PIX
+50598,2026-10-24,15:55:00,Cafe Coado,1,6.0,PIX
+50599,2026-10-24,15:50:00,bolo souza leao,2,12,dinheiro
+50600,2026-10-24,15:53:00,cafe gelado,2,14.0,debito
+50601,2026-10-24,15:20:00,Bolo de Rolo fatia,2,10.0,debito
+50602,2026-10-24,15:39:00,CAFÉ COADO ,1,6.0,PIX
+50603,2026-10-24,15:25:00,Bolo de Rolo fatia,1,10.0,debito
+50604,2026-10-24,16:45:00,Cartola,2,16,PIX
+50605,2026-10-24,16:49:00,CAFÉ COADO ,1,6.0,PIX
+50606,2026-10-24,16:36:00,Bolo Souza Leão,1,12,debito
+50607,2026-10-24,16:32:00,Bolo de Rolo fatia,1,10.0,pix
+50608,2026-10-24,17:19:00,Capuccino,1,12,PIX
+50609,2026-10-24,17:01:00,bolo souza leao,1,12,debito
+50610,2026-10-24,18:35:00,Gelado rapadura,1,14.0,credito
+50611,2026-10-25,07:04:00,tapioca coalho,1,14,PIX
+50612,2026-10-25,07:14:00,Cafe Coado,1,6.0,debito
+50613,2026-10-25,07:17:00,Cappuccino,1,12,credito
+50614,2026-10-25,07:43:00,Tapioca de queijo coalho,1,14.0,PIX
+50615,2026-10-25,07:03:00,tapioca coalho,2,14.0,PIX
+50616,2026-10-25,07:43:00,Bolo de Rolo fatia,1,10.0,debito
+50617,2026-10-25,08:36:00,Café coado,1,6,credito
+50618,2026-10-25,08:21:00,cuscuz c/ ovo,1,13,dinheiro
+50619,2026-10-25,08:03:00,cafe coado,1,6,pix
+50620,2026-10-25,08:28:00,PÃO NA CHAPA,1,7.0,debito
+50621,2026-10-25,09:27:00,pao chapa,1,7.0,debito
+50622,2026-10-25,09:21:00,Cappuccino,1,12,pix
+50623,2026-10-25,10:15:00,Tapioca queijo coalho,1,14,debito
+50624,2026-10-25,10:41:00,pao chapa,1,7.0,PIX
+50625,2026-10-25,11:23:00,Gelado rapadura,1,14.0,debito
+50626,2026-10-25,11:03:00,Brigadeiro,1,4,debito
+50626-E,2026-10-25,11:08:00,Brigadeiro,-1,4,debito
+50627,2026-10-26,07:56:00,Bolo de rolo (fatia),2,10.0,dinheiro
+50628,2026-10-26,07:20:00,Cuscuz com ovo,1,13.0,PIX
+50629,2026-10-26,08:15:00,Cuscus com ovo,3,13.0,dinheiro
+50630,2026-10-26,08:54:00,espresso,2,7,credito
+50631,2026-10-26,08:41:00,Pão na chapa,1,7,debito
+50632,2026-10-26,09:36:00,Pao na Chapa,2,7.0,pix
+50633,2026-10-26,09:16:00,Cafe Coado,2,6,PIX
+50634,2026-10-26,09:14:00,Pao na Chapa,1,7,PIX
+50635,2026-10-26,09:50:00,Cuscuz com ovo,1,13,debito
+50636,2026-10-26,11:18:00,cafe gelado,1,14.0,dinheiro
+50636-E,2026-10-26,11:23:00,cafe gelado,-1,14.0,dinheiro
+50637,2026-10-26,11:25:00,brigadeiro un,1,4.0,PIX
+50638,2026-10-26,11:49:00,cafe gelado,1,14,pix
+50639,2026-10-26,11:28:00,espresso,1,7,credito
+50640,2026-10-26,13:34:00,Bolo de Rolo fatia,1,10,credito
+50641,2026-10-26,14:09:00,Brigadeiro,2,4.0,debito
+50641-E,2026-10-26,14:14:00,Brigadeiro,-1,4.0,debito
+50642,2026-10-26,14:36:00,Tapioca queijo coalho,3,14.0,pix
+50643,2026-10-26,14:38:00,cartola,1,16.0,dinheiro
+50644,2026-10-26,14:24:00,bolo souza leao,1,12.0,debito
+50645,2026-10-26,14:34:00,Capuccino,1,12.0,dinheiro
+50646,2026-10-26,15:42:00,Gelado rapadura,1,14,dinheiro
+50647,2026-10-26,16:23:00,Bolo de Rolo fatia,1,10,dinheiro
+50648,2026-10-26,16:09:00,Bolo de Rolo fatia,1,10.0,dinheiro
+50649,2026-10-26,17:05:00,Bolo de Rolo fatia,1,10,PIX
+50650,2026-10-26,17:29:00,Gelado rapadura,2,14,credito
+50651,2026-10-26,18:02:00,bolo souza leao,1,12.0,pix
+50652,2026-10-27,07:14:00,Café Coado,1,6.0,debito
+50653,2026-10-27,07:41:00,CAFÉ COADO ,2,6,PIX
+50654,2026-10-27,08:49:00,pao chapa,2,7,credito
+50655,2026-10-27,08:54:00,Espresso,1,7.0,PIX
+50656,2026-10-27,08:32:00,Cuscuz com ovo,1,13.0,credito
+50657,2026-10-27,08:07:00,Café Coado,1,6,dinheiro
+50658,2026-10-27,08:28:00,Croisant,1,11,credito
+50659,2026-10-27,09:26:00,Café Coado,1,6,PIX
+50660,2026-10-27,10:03:00,PÃO NA CHAPA,2,7.0,dinheiro
+50661,2026-10-27,10:35:00,Café coado,1,6.0,credito
+50662,2026-10-27,12:27:00,Café gelado com rapadura,1,14.0,credito
+50663,2026-10-27,12:48:00,Bolo de rolo (fatia),1,10,PIX
+50664,2026-10-27,12:19:00,Cafe Coado,2,6.0,pix
+50665,2026-10-27,13:08:00,Bolo Souza Leão,1,12,PIX
+50666,2026-10-27,13:58:00,brigadeiro un,1,4,pix
+50667,2026-10-27,14:25:00,Brigadeiro unid,1,4,dinheiro
+50668,2026-10-27,14:47:00,Expresso,2,7,pix
+50669,2026-10-27,15:23:00,Cartola,1,16,dinheiro
+50670,2026-10-27,15:42:00,cartola,1,16.0,credito
+50670,2026-10-27,15:42:00,cartola,1,16.0,credito
+50671,2026-10-27,16:53:00,Souza Leao,2,12.0,PIX
+50672,2026-10-27,16:25:00,cartola,2,16,debito
+50673,2026-10-27,17:59:00,capuccino,1,12.0,credito
+50673,2026-10-27,17:59:00,capuccino,1,12.0,credito
+50674,2026-10-27,17:11:00,bolo de rolo,1,10.0,pix
+50675,2026-10-27,18:12:00,Brigadeiro,2,4.0,dinheiro
+50676,2026-10-28,07:13:00,tapioca coalho,1,14,debito
+50677,2026-10-28,07:14:00,Croissant,1,11.0,debito
+50678,2026-10-28,08:14:00,Expresso,1,7,PIX
+50679,2026-10-28,08:58:00,Cafe Coado,1,6,dinheiro
+50680,2026-10-28,08:24:00,Tapioca de queijo coalho,1,14.0,credito
+50681,2026-10-28,08:54:00,tapioca coalho,1,14,PIX
+50682,2026-10-28,08:16:00,Pao na Chapa,1,7.0,debito
+50683,2026-10-28,08:05:00,Café coado,1,6.0,dinheiro
+50684,2026-10-28,08:24:00,Cafe Coado,1,6,PIX
+50685,2026-10-28,08:24:00,Cuscuz com ovo,1,13,pix
+50686,2026-10-28,09:18:00,tapioca coalho,1,14.0,dinheiro
+50687,2026-10-28,10:31:00,Pão na chapa,2,7,pix
+50688,2026-10-28,10:52:00,Bolo de rolo (fatia),1,10,PIX
+50689,2026-10-28,11:22:00,Gelado rapadura,1,14,dinheiro
+50690,2026-10-28,11:50:00,CAFÉ COADO ,1,6,PIX
+50691,2026-10-28,12:54:00,bolo souza leao,2,12.0,debito
+50692,2026-10-28,14:12:00,Capuccino,2,12.0,dinheiro
+50693,2026-10-28,15:09:00,Cartola,1,16.0,debito
+50694,2026-10-28,15:19:00,CAFÉ COADO ,1,6.0,PIX
+50695,2026-10-28,15:41:00,Cartola,2,16,debito
+50696,2026-10-28,15:50:00,Brigadeiro unid,1,4.0,credito
+50697,2026-10-28,15:29:00,Cartola,1,16,pix
+50698,2026-10-28,15:31:00,CAFÉ COADO ,1,6.0,dinheiro
+50699,2026-10-28,15:36:00,CAFÉ COADO ,1,6,dinheiro
+50700,2026-10-28,16:06:00,Bolo de Rolo fatia,1,10.0,PIX
+50701,2026-10-28,16:30:00,brigadeiro un,1,4,dinheiro
+50702,2026-10-28,16:04:00,Bolo Souza Leão,1,12.0,PIX
+50703,2026-10-28,16:50:00,Café gelado com rapadura,2,14.0,dinheiro
+50704,2026-10-28,16:52:00,Croissant,1,11.0,pix
+50705,2026-10-28,16:48:00,Brigadeiro unid,1,4.0,dinheiro
+50706,2026-10-28,17:34:00,Espresso,1,7.0,dinheiro
+50707,2026-10-28,17:44:00,Bolo Souza Leão,1,12,credito
+50708,2026-10-28,18:38:00,Croissant,2,11.0,pix
+50709,2026-10-28,18:17:00,bolo souza leao,1,12.0,PIX
+50710,2026-10-28,18:04:00,Café Coado,1,6,dinheiro
+50711,2026-10-29,07:05:00,Café Coado,1,6,pix
+50712,2026-10-29,07:56:00,Tapioca de queijo coalho,2,14.0,credito
+50713,2026-10-29,08:43:00,Bolo de Rolo fatia,1,10.0,dinheiro
+50714,2026-10-29,08:30:00,Cappuccino,1,12,pix
+50715,2026-10-29,08:41:00,PÃO NA CHAPA,2,7.0,debito
+50716,2026-10-29,08:59:00,cuscuz c/ ovo,2,13.0,PIX
+50717,2026-10-29,09:32:00,pao chapa,1,7.0,pix
+50718,2026-10-29,10:25:00,CAFÉ COADO ,1,6.0,PIX
+50719,2026-10-29,12:27:00,Café Coado,2,6,PIX
+50720,2026-10-29,12:27:00,Tapioca de queijo coalho,1,14.0,debito
+50721,2026-10-29,15:05:00,Bolo de Rolo fatia,1,10.0,credito
+50722,2026-10-29,15:03:00,capuccino,1,12.0,pix
+50723,2026-10-29,15:03:00,CAFÉ COADO ,1,6.0,PIX
+50724,2026-10-29,16:31:00,bolo de rolo,1,10,debito
+50725,2026-10-29,16:06:00,cafe gelado,1,14,credito
+50726,2026-10-29,16:49:00,cartola,1,16.0,PIX
+50727,2026-10-29,16:41:00,Bolo de rolo (fatia),1,10,dinheiro
+50728,2026-10-29,16:05:00,Gelado rapadura,1,14,PIX
+50729,2026-10-29,17:48:00,cafe gelado,1,14,debito
+50730,2026-10-29,18:22:00,Croisant,1,11.0,debito
+50731,2026-10-30,07:25:00,CAFÉ COADO ,2,6,credito
+50732,2026-10-30,08:50:00,Cafe Coado,3,6,dinheiro
+50733,2026-10-30,08:44:00,CAFÉ COADO ,1,6,debito
+50734,2026-10-30,08:18:00,Cappuccino,1,12,debito
+50735,2026-10-30,09:31:00,Tapioca de queijo coalho,2,14.0,debito
+50736,2026-10-30,09:04:00,croissant,1,11,pix
+50737,2026-10-30,09:27:00,pao chapa,1,7,debito
+50738,2026-10-30,09:56:00,Cuscuz com ovo,1,13,pix
+50739,2026-10-30,10:49:00,Capuccino,3,12.0,pix
+50739-E,2026-10-30,10:54:00,Capuccino,-1,12.0,pix
+50740,2026-10-30,10:30:00,PÃO NA CHAPA,1,7.0,debito
+50740,2026-10-30,10:30:00,PÃO NA CHAPA,1,7.0,debito
+50741,2026-10-30,11:26:00,Bolo de rolo (fatia),1,10,dinheiro
+50742,2026-10-30,12:34:00,Gelado rapadura,1,14.0,credito
+50743,2026-10-30,12:52:00,bolo de rolo,1,10,PIX
+50744,2026-10-30,12:05:00,brigadeiro un,1,4,PIX
+50745,2026-10-30,13:03:00,espresso,2,7.0,dinheiro
+50746,2026-10-30,13:15:00,Tapioca de queijo coalho,2,14.0,debito
+50747,2026-10-30,14:44:00,Cappuccino,1,12.0,debito
+50748,2026-10-30,15:26:00,Cartola,1,16,dinheiro
+50749,2026-10-30,15:38:00,Café coado,1,6,dinheiro
+50750,2026-10-30,16:45:00,Espresso,1,7,PIX
+50750,2026-10-30,16:45:00,Espresso,1,7,PIX
+50751,2026-10-30,17:49:00,cafe coado,1,6,PIX
+50752,2026-10-30,17:18:00,croissant,1,11.0,PIX
+50753,2026-10-30,18:59:00,Capuccino,1,12.0,credito
+50754,2026-10-31,07:47:00,Cuscuz com ovo,1,13.0,debito
+50755,2026-10-31,07:29:00,tapioca coalho,1,14,PIX
+50756,2026-10-31,07:29:00,Tapioca queijo coalho,2,14.0,dinheiro
+50757,2026-10-31,07:06:00,Cafe Coado,1,6.0,pix
+50758,2026-10-31,07:49:00,croissant,2,11.0,dinheiro
+50759,2026-10-31,08:31:00,pao chapa,3,7,dinheiro
+50760,2026-10-31,08:09:00,Café coado,1,6,debito
+50761,2026-10-31,08:01:00,CAFÉ COADO ,1,6.0,pix
+50762,2026-10-31,08:09:00,Cafe Coado,1,6,pix
+50763,2026-10-31,08:19:00,CAFÉ COADO ,1,6.0,debito
+50764,2026-10-31,08:50:00,Pão na chapa,1,7,credito
+50765,2026-10-31,09:42:00,Cuscus com ovo,1,13,debito
+50766,2026-10-31,09:47:00,Bolo de Rolo fatia,2,10,dinheiro
+50767,2026-10-31,09:40:00,capuccino,1,12.0,debito
+50768,2026-10-31,09:44:00,espresso,1,7.0,pix
+50769,2026-10-31,09:12:00,Café Coado,1,6,debito
+50770,2026-10-31,10:29:00,Cafe Coado,1,6,debito
+50771,2026-10-31,11:39:00,bolo de rolo,1,10.0,pix
+50772,2026-10-31,11:48:00,Bolo de Rolo fatia,1,10,credito
+50773,2026-10-31,12:23:00,brigadeiro un,1,4,pix
+50774,2026-10-31,13:26:00,Croissant,1,11.0,dinheiro
+50775,2026-10-31,13:27:00,capuccino,1,12,PIX
+50776,2026-10-31,14:33:00,capuccino,2,12,debito
+50777,2026-10-31,15:53:00,Brigadeiro unid,2,4.0,pix
+50778,2026-10-31,15:13:00,Souza Leao,2,12,debito
+50779,2026-10-31,15:01:00,Cartola,1,16,pix
+50780,2026-10-31,15:46:00,Souza Leao,1,12.0,credito
+50781,2026-10-31,15:41:00,Brigadeiro,1,4,pix
+50782,2026-10-31,16:51:00,Croissant,1,11,pix
+50783,2026-10-31,16:09:00,Café coado,1,6.0,dinheiro
+50784,2026-10-31,16:04:00,cafe gelado,1,14.0,pix
+50785,2026-10-31,16:00:00,Brigadeiro,1,4,PIX
+50786,2026-10-31,17:18:00,Café gelado com rapadura,1,14,credito
+50787,2026-10-31,18:37:00,CAFÉ COADO ,1,6.0,dinheiro

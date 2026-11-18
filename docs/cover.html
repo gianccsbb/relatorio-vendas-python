@@ -1,0 +1,37 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0} body{width:1600px;height:1000px;font-family:Inter,sans-serif;background:#F4F1EA;display:grid;grid-template-columns:1fr 64px 1fr;grid-template-rows:auto auto;align-items:center;align-content:center;padding:56px 56px;gap:44px 0}
+h2{font-size:15px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:14px}
+.before h2{color:#B4553A} .after h2{color:#0F4C5C}
+.code{background:#1E1E24;color:#E8E6E3;border-radius:18px;padding:22px 24px;font:13.5px/1.75 "DejaVu Sans Mono",monospace;white-space:pre;overflow:hidden;margin-bottom:16px}
+.code .f{color:#8F8FA3;font-size:12px;display:block;margin-bottom:6px}
+.issues{display:flex;flex-wrap:wrap;gap:8px} .issues span{background:#F6D8CE;color:#7A2E18;font-size:13px;font-weight:600;padding:6px 12px;border-radius:999px}
+.arrow{font-size:54px;color:#0F4C5C;text-align:center;font-weight:700}
+.card{background:#fff;border-radius:18px;padding:24px;box-shadow:0 2px 0 rgba(0,0,0,.05)}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:16px}
+.kpi{background:#F2E8CF;border-radius:14px;padding:14px 16px} .kpi b{display:block;font-size:24px;color:#0F4C5C} .kpi span{font-size:12.5px;color:#5c4d45}
+.bar{display:grid;grid-template-columns:190px 1fr 92px;align-items:center;gap:10px;font-size:13.5px;margin:7px 0}
+.bar i{display:block;height:16px;background:#0F4C5C;border-radius:6px} .bar b{text-align:right;color:#0F4C5C}
+.log{margin-top:16px;display:grid;grid-template-columns:1fr 1fr;gap:8px 18px;font-size:13.5px} .log div{display:flex;justify-content:space-between;border-bottom:1px dashed #e5d7b8;padding:4px 0} .log b{color:#0F4C5C}
+.title{grid-column:1/-1;display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:0}
+.title h1{font-family:Lora,serif;font-size:38px;color:#0F4C5C} .title p{color:#5c4d45;font-size:16px}
+</style></head><body>
+<div class="title"><div><p>Python automation · Concept project</p><h1>Messy sales exports → one clean Excel report</h1></div><p>pandas · openpyxl · pytest</p></div>
+<div class="before"><h2>Before: 3 exports, 3 formats</h2>
+<div class="code"><span class="f">caixa1_outubro.csv</span>Data;Hora;Produto;Qtd;Valor Unit.;Pagamento
+01/10/2026;07:01;CAFÉ COADO ;1;R$ 6,00;pix
+01/10/2026;07:48;pao chapa;1;R$ 7,00;dinheiro
+02/10/2026;08:52;Croisant;1;R$ 11,00;dinheiro</div>
+<div class="code"><span class="f">caixa2_outubro.csv</span>sale_id,date,time,item,quantity,unit_price,payment
+50029,2026-10-02,07:51:00,Capuccino,3,12,dinheiro
+50091-E,2026-10-04,07:17:00,pao chapa,-1,7.0,pix
+50034,2026-10-02,09:07:00,Cuscus com ovo,1,13.0,pix
+50034,2026-10-02,09:07:00,Cuscus com ovo,1,13.0,pix</div>
+<div class="issues"><span>; vs , separators</span><span>dd/mm vs ISO dates</span><span>"R$ 6,00" vs 6.0</span><span>typos</span><span>duplicates</span><span>refunds</span><span>repeated headers</span><span>Excel with totals only</span></div>
+</div>
+<div class="arrow">→</div>
+<div class="after"><h2>After: one command, one report</h2>
+<div class="card">
+<div class="kpis"><div class="kpi"><b>R$ 31,435</b><span>net revenue</span></div><div class="kpi"><b>3,222</b><span>items sold</span></div><div class="kpi"><b>2,598</b><span>clean sales lines</span></div></div>
+<div class="bar"><span>Café coado</span><i style="width:100.0%"></i><b>R$ 4,130</b></div><div class="bar"><span>Cappuccino</span><i style="width:94.4%"></i><b>R$ 3,896</b></div><div class="bar"><span>Tapioca de queijo coalho</span><i style="width:90.6%"></i><b>R$ 3,742</b></div><div class="bar"><span>Bolo de rolo (fatia)</span><i style="width:76.1%"></i><b>R$ 3,143</b></div><div class="bar"><span>Café gelado com rapadura</span><i style="width:75.9%"></i><b>R$ 3,133</b></div><div class="bar"><span>Cuscuz com ovo</span><i style="width:66.9%"></i><b>R$ 2,762</b></div>
+<div class="log"><div>Names standardized<b>1,793</b></div><div>Duplicates removed<b>9</b></div><div>Refunds kept as negative<b>7</b></div><div>Blank/header rows dropped<b>17</b></div></div>
+</div></div></body></html>
